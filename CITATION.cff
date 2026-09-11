@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite this software using the following information."
+title: "All IPCC AR6 regions are close to their 1.5° and 2°C equivalent warming limits"
+type: software
+authors:
+  - family-names: "Li"
+    given-names: "Tong"
+    orcid: "https://orcid.org/0000-0001-6204-1172"
+version: "1.0.0"
+date-released: "2026-09-10"
+repository-code: "https://github.com/TongLi-97/Global_regional_attribution"
+url: "https://github.com/TongLi-97/Global_regional_attribution/releases/tag/v1.0.0"
+license: MIT
