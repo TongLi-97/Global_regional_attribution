@@ -1,0 +1,967 @@
+panel,scheme,region_abbreviation,region_name,continent,metric,value,units,n,sample_unit
+a,Region,GIC,Greenland/Iceland,North and Central America,Confidence ratio,3.554105087177178,unitless,,
+a,Region,NWN,N.W.North-America,North and Central America,Confidence ratio,4.846464344694622,unitless,,
+a,Region,NEN,N.E.North-America,North and Central America,Confidence ratio,5.211253673719902,unitless,,
+a,Region,WNA,W.North-America,North and Central America,Confidence ratio,6.604980046107276,unitless,,
+a,Region,CNA,C.North-America,North and Central America,Confidence ratio,2.6676447080297145,unitless,,
+a,Region,ENA,E.North-America,North and Central America,Confidence ratio,7.787686861273966,unitless,,
+a,Region,NCA,N.Central-America,North and Central America,Confidence ratio,7.861492425406196,unitless,,
+a,Region,SCA,S.Central-America,North and Central America,Confidence ratio,13.475380834239557,unitless,,
+a,Region,CAR,Caribbean,North and Central America,Confidence ratio,15.010708576436675,unitless,,
+a,Region,NWS,N.W.South-America,South America,Confidence ratio,9.80069906825038,unitless,,
+a,Region,NSA,N.South-America,South America,Confidence ratio,5.327338659756041,unitless,,
+a,Region,NES,N.E.South-America,South America,Confidence ratio,8.687591399139427,unitless,,
+a,Region,SAM,South-American-Monsoon,South America,Confidence ratio,6.042634464877273,unitless,,
+a,Region,SWS,S.W.South-America,South America,Confidence ratio,10.978617211452105,unitless,,
+a,Region,SES,S.E.South-America,South America,Confidence ratio,7.87057866276373,unitless,,
+a,Region,SSA,S.South-America,South America,Confidence ratio,7.904861538773984,unitless,,
+a,Region,NEU,N.Europe,Europe,Confidence ratio,3.052658778413805,unitless,,
+a,Region,WCE,West&Central-Europe,Europe,Confidence ratio,5.995819749268677,unitless,,
+a,Region,EEU,E.Europe,Europe,Confidence ratio,5.270239337319736,unitless,,
+a,Region,MED,Mediterranean,Europe,Confidence ratio,7.421031115712663,unitless,,
+a,Region,SAH,Sahara,Africa,Confidence ratio,5.401577276264904,unitless,,
+a,Region,WAF,Western-Africa,Africa,Confidence ratio,9.568967451407541,unitless,,
+a,Region,CAF,Central-Africa,Africa,Confidence ratio,5.6701237497727925,unitless,,
+a,Region,NEAF,N.Eastern-Africa,Africa,Confidence ratio,7.325015729455286,unitless,,
+a,Region,SEAF,S.Eastern-Africa,Africa,Confidence ratio,7.163995900845494,unitless,,
+a,Region,WSAF,W.Southern-Africa,Africa,Confidence ratio,6.754468576575185,unitless,,
+a,Region,ESAF,E.Southern-Africa,Africa,Confidence ratio,7.9324310940971365,unitless,,
+a,Region,MDG,Madagascar,Africa,Confidence ratio,11.506609239516822,unitless,,
+a,Region,RAR,Russian-Arctic,Asia,Confidence ratio,4.862060861247982,unitless,,
+a,Region,WSB,W.Siberia,Asia,Confidence ratio,4.547948401815123,unitless,,
+a,Region,ESB,E.Siberia,Asia,Confidence ratio,5.445379046621933,unitless,,
+a,Region,RFE,Russian-Far-East,Asia,Confidence ratio,3.890722818326258,unitless,,
+a,Region,WCA,W.C.Asia,Asia,Confidence ratio,5.709010159371503,unitless,,
+a,Region,ECA,E.C.Asia,Asia,Confidence ratio,5.53063159606683,unitless,,
+a,Region,TIB,Tibetan-Plateau,Asia,Confidence ratio,4.414639217491876,unitless,,
+a,Region,EAS,E.Asia,Asia,Confidence ratio,5.699400253733102,unitless,,
+a,Region,ARP,Arabian-Peninsula,Asia,Confidence ratio,6.944967756579991,unitless,,
+a,Region,SAS,S.Asia,Asia,Confidence ratio,6.221513884730087,unitless,,
+a,Region,SEA,S.E.Asia,Australasia,Confidence ratio,11.1965817940279,unitless,,
+a,Region,NAU,N.Australia,Australasia,Confidence ratio,10.181797147782424,unitless,,
+a,Region,CAU,C.Australia,Australasia,Confidence ratio,6.3231877039728905,unitless,,
+a,Region,EAU,E.Australia,Australasia,Confidence ratio,10.809593025827144,unitless,,
+a,Region,SAU,S.Australia,Australasia,Confidence ratio,9.142756392791389,unitless,,
+a,Region,NZ,New-Zealand,Australasia,Confidence ratio,9.102039545406726,unitless,,
+a,Region,EAN,E.Antarctica,Antarctica,Confidence ratio,3.410588093681613,unitless,,
+a,Region,WAN,W.Antarctica,Antarctica,Confidence ratio,1.5274707789239699,unitless,,
+a,Regions within Continent,GIC,Greenland/Iceland,North and Central America,Confidence ratio,2.7943233264499123,unitless,,
+a,Regions within Continent,NWN,N.W.North-America,North and Central America,Confidence ratio,6.042196229020499,unitless,,
+a,Regions within Continent,NEN,N.E.North-America,North and Central America,Confidence ratio,4.840607043044578,unitless,,
+a,Regions within Continent,WNA,W.North-America,North and Central America,Confidence ratio,6.578710848631066,unitless,,
+a,Regions within Continent,CNA,C.North-America,North and Central America,Confidence ratio,2.5091625690817305,unitless,,
+a,Regions within Continent,ENA,E.North-America,North and Central America,Confidence ratio,6.484113677324166,unitless,,
+a,Regions within Continent,NCA,N.Central-America,North and Central America,Confidence ratio,7.4256456772786175,unitless,,
+a,Regions within Continent,SCA,S.Central-America,North and Central America,Confidence ratio,10.35704419402229,unitless,,
+a,Regions within Continent,CAR,Caribbean,North and Central America,Confidence ratio,11.037695965124001,unitless,,
+a,Regions within Continent,NWS,N.W.South-America,South America,Confidence ratio,10.128009630913681,unitless,,
+a,Regions within Continent,NSA,N.South-America,South America,Confidence ratio,6.847749137046896,unitless,,
+a,Regions within Continent,NES,N.E.South-America,South America,Confidence ratio,11.0246603451668,unitless,,
+a,Regions within Continent,SAM,South-American-Monsoon,South America,Confidence ratio,6.5531499105015945,unitless,,
+a,Regions within Continent,SWS,S.W.South-America,South America,Confidence ratio,10.065287596328426,unitless,,
+a,Regions within Continent,SES,S.E.South-America,South America,Confidence ratio,10.010676163619335,unitless,,
+a,Regions within Continent,SSA,S.South-America,South America,Confidence ratio,7.3790356252150335,unitless,,
+a,Regions within Continent,NEU,N.Europe,Europe,Confidence ratio,3.7963869464246027,unitless,,
+a,Regions within Continent,WCE,West&Central-Europe,Europe,Confidence ratio,6.550825030888836,unitless,,
+a,Regions within Continent,EEU,E.Europe,Europe,Confidence ratio,7.119710656374591,unitless,,
+a,Regions within Continent,MED,Mediterranean,Europe,Confidence ratio,6.565128926627567,unitless,,
+a,Regions within Continent,SAH,Sahara,Africa,Confidence ratio,7.353637827202524,unitless,,
+a,Regions within Continent,WAF,Western-Africa,Africa,Confidence ratio,8.711430403080783,unitless,,
+a,Regions within Continent,CAF,Central-Africa,Africa,Confidence ratio,5.633844490904398,unitless,,
+a,Regions within Continent,NEAF,N.Eastern-Africa,Africa,Confidence ratio,7.870408533618408,unitless,,
+a,Regions within Continent,SEAF,S.Eastern-Africa,Africa,Confidence ratio,8.149379853174574,unitless,,
+a,Regions within Continent,WSAF,W.Southern-Africa,Africa,Confidence ratio,9.156997571661591,unitless,,
+a,Regions within Continent,ESAF,E.Southern-Africa,Africa,Confidence ratio,7.7941146458496,unitless,,
+a,Regions within Continent,MDG,Madagascar,Africa,Confidence ratio,11.24781611517366,unitless,,
+a,Regions within Continent,RAR,Russian-Arctic,Asia,Confidence ratio,4.211876625667282,unitless,,
+a,Regions within Continent,WSB,W.Siberia,Asia,Confidence ratio,4.477933167978408,unitless,,
+a,Regions within Continent,ESB,E.Siberia,Asia,Confidence ratio,4.471273855577064,unitless,,
+a,Regions within Continent,RFE,Russian-Far-East,Asia,Confidence ratio,3.456303508892456,unitless,,
+a,Regions within Continent,WCA,W.C.Asia,Asia,Confidence ratio,5.566798612560436,unitless,,
+a,Regions within Continent,ECA,E.C.Asia,Asia,Confidence ratio,5.923791212361822,unitless,,
+a,Regions within Continent,TIB,Tibetan-Plateau,Asia,Confidence ratio,4.841993344028679,unitless,,
+a,Regions within Continent,EAS,E.Asia,Asia,Confidence ratio,4.567939552186292,unitless,,
+a,Regions within Continent,ARP,Arabian-Peninsula,Asia,Confidence ratio,8.536800506330364,unitless,,
+a,Regions within Continent,SAS,S.Asia,Asia,Confidence ratio,4.992389216335281,unitless,,
+a,Regions within Continent,SEA,S.E.Asia,Australasia,Confidence ratio,9.979580838587768,unitless,,
+a,Regions within Continent,NAU,N.Australia,Australasia,Confidence ratio,11.20120837557779,unitless,,
+a,Regions within Continent,CAU,C.Australia,Australasia,Confidence ratio,8.35707163141385,unitless,,
+a,Regions within Continent,EAU,E.Australia,Australasia,Confidence ratio,11.192266929578748,unitless,,
+a,Regions within Continent,SAU,S.Australia,Australasia,Confidence ratio,8.57751833392879,unitless,,
+a,Regions within Continent,NZ,New-Zealand,Australasia,Confidence ratio,9.23498978139406,unitless,,
+a,Regions within Continent,EAN,E.Antarctica,Antarctica,Confidence ratio,3.410588093681613,unitless,,
+a,Regions within Continent,WAN,W.Antarctica,Antarctica,Confidence ratio,1.5274707789239699,unitless,,
+a,Region + LSAT,GIC,Greenland/Iceland,North and Central America,Confidence ratio,3.4926897199987605,unitless,,
+a,Region + LSAT,NWN,N.W.North-America,North and Central America,Confidence ratio,6.824503835382965,unitless,,
+a,Region + LSAT,NEN,N.E.North-America,North and Central America,Confidence ratio,5.683808209234186,unitless,,
+a,Region + LSAT,WNA,W.North-America,North and Central America,Confidence ratio,6.753836080091173,unitless,,
+a,Region + LSAT,CNA,C.North-America,North and Central America,Confidence ratio,2.948688602780255,unitless,,
+a,Region + LSAT,ENA,E.North-America,North and Central America,Confidence ratio,7.97886946704156,unitless,,
+a,Region + LSAT,NCA,N.Central-America,North and Central America,Confidence ratio,7.782253916831084,unitless,,
+a,Region + LSAT,SCA,S.Central-America,North and Central America,Confidence ratio,14.040112814415997,unitless,,
+a,Region + LSAT,CAR,Caribbean,North and Central America,Confidence ratio,16.664383143136163,unitless,,
+a,Region + LSAT,NWS,N.W.South-America,South America,Confidence ratio,11.798420331143241,unitless,,
+a,Region + LSAT,NSA,N.South-America,South America,Confidence ratio,6.8011782314950295,unitless,,
+a,Region + LSAT,NES,N.E.South-America,South America,Confidence ratio,9.45695836955497,unitless,,
+a,Region + LSAT,SAM,South-American-Monsoon,South America,Confidence ratio,5.955924283441537,unitless,,
+a,Region + LSAT,SWS,S.W.South-America,South America,Confidence ratio,11.969699661308296,unitless,,
+a,Region + LSAT,SES,S.E.South-America,South America,Confidence ratio,9.496284594012778,unitless,,
+a,Region + LSAT,SSA,S.South-America,South America,Confidence ratio,8.477738547449682,unitless,,
+a,Region + LSAT,NEU,N.Europe,Europe,Confidence ratio,3.5415842158722066,unitless,,
+a,Region + LSAT,WCE,West&Central-Europe,Europe,Confidence ratio,6.1196648667495825,unitless,,
+a,Region + LSAT,EEU,E.Europe,Europe,Confidence ratio,5.29487616604556,unitless,,
+a,Region + LSAT,MED,Mediterranean,Europe,Confidence ratio,7.928500523299179,unitless,,
+a,Region + LSAT,SAH,Sahara,Africa,Confidence ratio,8.539132860187692,unitless,,
+a,Region + LSAT,WAF,Western-Africa,Africa,Confidence ratio,9.501739148993103,unitless,,
+a,Region + LSAT,CAF,Central-Africa,Africa,Confidence ratio,6.813138552618328,unitless,,
+a,Region + LSAT,NEAF,N.Eastern-Africa,Africa,Confidence ratio,7.94553930444269,unitless,,
+a,Region + LSAT,SEAF,S.Eastern-Africa,Africa,Confidence ratio,7.366628010206937,unitless,,
+a,Region + LSAT,WSAF,W.Southern-Africa,Africa,Confidence ratio,10.227689397773451,unitless,,
+a,Region + LSAT,ESAF,E.Southern-Africa,Africa,Confidence ratio,8.428585692773487,unitless,,
+a,Region + LSAT,MDG,Madagascar,Africa,Confidence ratio,12.390905310239312,unitless,,
+a,Region + LSAT,RAR,Russian-Arctic,Asia,Confidence ratio,5.319958238333029,unitless,,
+a,Region + LSAT,WSB,W.Siberia,Asia,Confidence ratio,5.683874163721979,unitless,,
+a,Region + LSAT,ESB,E.Siberia,Asia,Confidence ratio,5.8452243800375765,unitless,,
+a,Region + LSAT,RFE,Russian-Far-East,Asia,Confidence ratio,4.2289442788204905,unitless,,
+a,Region + LSAT,WCA,W.C.Asia,Asia,Confidence ratio,7.073716048004264,unitless,,
+a,Region + LSAT,ECA,E.C.Asia,Asia,Confidence ratio,7.237907786722068,unitless,,
+a,Region + LSAT,TIB,Tibetan-Plateau,Asia,Confidence ratio,5.233004043403263,unitless,,
+a,Region + LSAT,EAS,E.Asia,Asia,Confidence ratio,6.928883653784966,unitless,,
+a,Region + LSAT,ARP,Arabian-Peninsula,Asia,Confidence ratio,9.693432109694376,unitless,,
+a,Region + LSAT,SAS,S.Asia,Asia,Confidence ratio,6.55954951953574,unitless,,
+a,Region + LSAT,SEA,S.E.Asia,Australasia,Confidence ratio,12.09862738865226,unitless,,
+a,Region + LSAT,NAU,N.Australia,Australasia,Confidence ratio,11.091799184904769,unitless,,
+a,Region + LSAT,CAU,C.Australia,Australasia,Confidence ratio,6.9988166657054105,unitless,,
+a,Region + LSAT,EAU,E.Australia,Australasia,Confidence ratio,10.735503580930894,unitless,,
+a,Region + LSAT,SAU,S.Australia,Australasia,Confidence ratio,8.75644219035635,unitless,,
+a,Region + LSAT,NZ,New-Zealand,Australasia,Confidence ratio,10.148243744375947,unitless,,
+a,Region + LSAT,EAN,E.Antarctica,Antarctica,Confidence ratio,4.240189236441233,unitless,,
+a,Region + LSAT,WAN,W.Antarctica,Antarctica,Confidence ratio,1.5984634268784061,unitless,,
+a,Continent,GIC,Greenland/Iceland,North and Central America,Confidence ratio,3.545591673078721,unitless,,
+a,Continent,NWN,N.W.North-America,North and Central America,Confidence ratio,4.9006218574639355,unitless,,
+a,Continent,NEN,N.E.North-America,North and Central America,Confidence ratio,5.191808578938736,unitless,,
+a,Continent,WNA,W.North-America,North and Central America,Confidence ratio,3.936421134115211,unitless,,
+a,Continent,CNA,C.North-America,North and Central America,Confidence ratio,1.2710761261468246,unitless,,
+a,Continent,ENA,E.North-America,North and Central America,Confidence ratio,5.462009449161027,unitless,,
+a,Continent,NCA,N.Central-America,North and Central America,Confidence ratio,5.065870877516187,unitless,,
+a,Continent,SCA,S.Central-America,North and Central America,Confidence ratio,7.99283781914278,unitless,,
+a,Continent,CAR,Caribbean,North and Central America,Confidence ratio,7.844569520743678,unitless,,
+a,Continent,NWS,N.W.South-America,South America,Confidence ratio,9.04236902895082,unitless,,
+a,Continent,NSA,N.South-America,South America,Confidence ratio,6.403985152322273,unitless,,
+a,Continent,NES,N.E.South-America,South America,Confidence ratio,12.028961417163224,unitless,,
+a,Continent,SAM,South-American-Monsoon,South America,Confidence ratio,7.41674794008211,unitless,,
+a,Continent,SWS,S.W.South-America,South America,Confidence ratio,8.147238369043762,unitless,,
+a,Continent,SES,S.E.South-America,South America,Confidence ratio,7.250276594068416,unitless,,
+a,Continent,SSA,S.South-America,South America,Confidence ratio,5.773762647447455,unitless,,
+a,Continent,NEU,N.Europe,Europe,Confidence ratio,3.7095271899780413,unitless,,
+a,Continent,WCE,West&Central-Europe,Europe,Confidence ratio,6.336504151988596,unitless,,
+a,Continent,EEU,E.Europe,Europe,Confidence ratio,7.091534762628575,unitless,,
+a,Continent,MED,Mediterranean,Europe,Confidence ratio,5.822875662045173,unitless,,
+a,Continent,SAH,Sahara,Africa,Confidence ratio,8.649890242712152,unitless,,
+a,Continent,WAF,Western-Africa,Africa,Confidence ratio,6.073088843236988,unitless,,
+a,Continent,CAF,Central-Africa,Africa,Confidence ratio,4.562971409008723,unitless,,
+a,Continent,NEAF,N.Eastern-Africa,Africa,Confidence ratio,6.9589272418629085,unitless,,
+a,Continent,SEAF,S.Eastern-Africa,Africa,Confidence ratio,7.67021554405037,unitless,,
+a,Continent,WSAF,W.Southern-Africa,Africa,Confidence ratio,9.298006063934233,unitless,,
+a,Continent,ESAF,E.Southern-Africa,Africa,Confidence ratio,8.028408656262243,unitless,,
+a,Continent,MDG,Madagascar,Africa,Confidence ratio,9.827813266971326,unitless,,
+a,Continent,RAR,Russian-Arctic,Asia,Confidence ratio,5.147997589800754,unitless,,
+a,Continent,WSB,W.Siberia,Asia,Confidence ratio,4.760826809378877,unitless,,
+a,Continent,ESB,E.Siberia,Asia,Confidence ratio,5.141424645799885,unitless,,
+a,Continent,RFE,Russian-Far-East,Asia,Confidence ratio,3.7486311145783926,unitless,,
+a,Continent,WCA,W.C.Asia,Asia,Confidence ratio,4.213592371168695,unitless,,
+a,Continent,ECA,E.C.Asia,Asia,Confidence ratio,4.658915444977529,unitless,,
+a,Continent,TIB,Tibetan-Plateau,Asia,Confidence ratio,1.5003322092248794,unitless,,
+a,Continent,EAS,E.Asia,Asia,Confidence ratio,3.6571155619883777,unitless,,
+a,Continent,ARP,Arabian-Peninsula,Asia,Confidence ratio,6.556873273626149,unitless,,
+a,Continent,SAS,S.Asia,Asia,Confidence ratio,2.6939952222522328,unitless,,
+a,Continent,SEA,S.E.Asia,Australasia,Confidence ratio,10.551475894772542,unitless,,
+a,Continent,NAU,N.Australia,Australasia,Confidence ratio,13.459495909171931,unitless,,
+a,Continent,CAU,C.Australia,Australasia,Confidence ratio,9.586415249505512,unitless,,
+a,Continent,EAU,E.Australia,Australasia,Confidence ratio,9.86809461925742,unitless,,
+a,Continent,SAU,S.Australia,Australasia,Confidence ratio,8.54549169041198,unitless,,
+a,Continent,NZ,New-Zealand,Australasia,Confidence ratio,6.963567191737405,unitless,,
+a,Continent,EAN,E.Antarctica,Antarctica,Confidence ratio,3.410588093681613,unitless,,
+a,Continent,WAN,W.Antarctica,Antarctica,Confidence ratio,1.5274707789239699,unitless,,
+a,Continent + LSAT,GIC,Greenland/Iceland,North and Central America,Confidence ratio,3.6247416396422603,unitless,,
+a,Continent + LSAT,NWN,N.W.North-America,North and Central America,Confidence ratio,6.127455689381322,unitless,,
+a,Continent + LSAT,NEN,N.E.North-America,North and Central America,Confidence ratio,5.73622500239932,unitless,,
+a,Continent + LSAT,WNA,W.North-America,North and Central America,Confidence ratio,4.683923326282588,unitless,,
+a,Continent + LSAT,CNA,C.North-America,North and Central America,Confidence ratio,1.3907057354174972,unitless,,
+a,Continent + LSAT,ENA,E.North-America,North and Central America,Confidence ratio,5.833173777639099,unitless,,
+a,Continent + LSAT,NCA,N.Central-America,North and Central America,Confidence ratio,6.001215636932925,unitless,,
+a,Continent + LSAT,SCA,S.Central-America,North and Central America,Confidence ratio,10.754155967554416,unitless,,
+a,Continent + LSAT,CAR,Caribbean,North and Central America,Confidence ratio,11.43371828867048,unitless,,
+a,Continent + LSAT,NWS,N.W.South-America,South America,Confidence ratio,9.922520557952225,unitless,,
+a,Continent + LSAT,NSA,N.South-America,South America,Confidence ratio,6.937848870088817,unitless,,
+a,Continent + LSAT,NES,N.E.South-America,South America,Confidence ratio,12.439626717570533,unitless,,
+a,Continent + LSAT,SAM,South-American-Monsoon,South America,Confidence ratio,7.720308985613545,unitless,,
+a,Continent + LSAT,SWS,S.W.South-America,South America,Confidence ratio,8.020053047832102,unitless,,
+a,Continent + LSAT,SES,S.E.South-America,South America,Confidence ratio,6.2879449243213585,unitless,,
+a,Continent + LSAT,SSA,S.South-America,South America,Confidence ratio,5.526587307774861,unitless,,
+a,Continent + LSAT,NEU,N.Europe,Europe,Confidence ratio,3.9100198575253655,unitless,,
+a,Continent + LSAT,WCE,West&Central-Europe,Europe,Confidence ratio,6.905062593618387,unitless,,
+a,Continent + LSAT,EEU,E.Europe,Europe,Confidence ratio,6.806302968849612,unitless,,
+a,Continent + LSAT,MED,Mediterranean,Europe,Confidence ratio,7.446985652185279,unitless,,
+a,Continent + LSAT,SAH,Sahara,Africa,Confidence ratio,8.763101445706953,unitless,,
+a,Continent + LSAT,WAF,Western-Africa,Africa,Confidence ratio,6.585640483548375,unitless,,
+a,Continent + LSAT,CAF,Central-Africa,Africa,Confidence ratio,5.473865692145602,unitless,,
+a,Continent + LSAT,NEAF,N.Eastern-Africa,Africa,Confidence ratio,6.775032062403981,unitless,,
+a,Continent + LSAT,SEAF,S.Eastern-Africa,Africa,Confidence ratio,8.512405209044301,unitless,,
+a,Continent + LSAT,WSAF,W.Southern-Africa,Africa,Confidence ratio,10.355380959832582,unitless,,
+a,Continent + LSAT,ESAF,E.Southern-Africa,Africa,Confidence ratio,7.877153289632125,unitless,,
+a,Continent + LSAT,MDG,Madagascar,Africa,Confidence ratio,10.461722086606128,unitless,,
+a,Continent + LSAT,RAR,Russian-Arctic,Asia,Confidence ratio,5.377337809481936,unitless,,
+a,Continent + LSAT,WSB,W.Siberia,Asia,Confidence ratio,5.54964543677097,unitless,,
+a,Continent + LSAT,ESB,E.Siberia,Asia,Confidence ratio,6.055710671877462,unitless,,
+a,Continent + LSAT,RFE,Russian-Far-East,Asia,Confidence ratio,3.769549378089347,unitless,,
+a,Continent + LSAT,WCA,W.C.Asia,Asia,Confidence ratio,6.346827721154356,unitless,,
+a,Continent + LSAT,ECA,E.C.Asia,Asia,Confidence ratio,6.267572712711552,unitless,,
+a,Continent + LSAT,TIB,Tibetan-Plateau,Asia,Confidence ratio,1.5080332310348281,unitless,,
+a,Continent + LSAT,EAS,E.Asia,Asia,Confidence ratio,5.903481831164436,unitless,,
+a,Continent + LSAT,ARP,Arabian-Peninsula,Asia,Confidence ratio,9.209777837729105,unitless,,
+a,Continent + LSAT,SAS,S.Asia,Asia,Confidence ratio,3.000928777837787,unitless,,
+a,Continent + LSAT,SEA,S.E.Asia,Australasia,Confidence ratio,12.208672232183247,unitless,,
+a,Continent + LSAT,NAU,N.Australia,Australasia,Confidence ratio,12.526641745147364,unitless,,
+a,Continent + LSAT,CAU,C.Australia,Australasia,Confidence ratio,8.795974696128187,unitless,,
+a,Continent + LSAT,EAU,E.Australia,Australasia,Confidence ratio,9.742201478242917,unitless,,
+a,Continent + LSAT,SAU,S.Australia,Australasia,Confidence ratio,7.630273788883973,unitless,,
+a,Continent + LSAT,NZ,New-Zealand,Australasia,Confidence ratio,6.407886659450474,unitless,,
+a,Continent + LSAT,EAN,E.Antarctica,Antarctica,Confidence ratio,4.240189236441233,unitless,,
+a,Continent + LSAT,WAN,W.Antarctica,Antarctica,Confidence ratio,1.5984634268784061,unitless,,
+a,LSAT,GIC,Greenland/Iceland,North and Central America,Confidence ratio,3.4926897199987605,unitless,,
+a,LSAT,NWN,N.W.North-America,North and Central America,Confidence ratio,6.8902138085684,unitless,,
+a,LSAT,NEN,N.E.North-America,North and Central America,Confidence ratio,5.683808209234186,unitless,,
+a,LSAT,WNA,W.North-America,North and Central America,Confidence ratio,4.8574712780307925,unitless,,
+a,LSAT,CNA,C.North-America,North and Central America,Confidence ratio,1.4861839637675196,unitless,,
+a,LSAT,ENA,E.North-America,North and Central America,Confidence ratio,5.642183266201044,unitless,,
+a,LSAT,NCA,N.Central-America,North and Central America,Confidence ratio,6.196311022015769,unitless,,
+a,LSAT,SCA,S.Central-America,North and Central America,Confidence ratio,11.28083645755365,unitless,,
+a,LSAT,CAR,Caribbean,North and Central America,Confidence ratio,11.71966110367706,unitless,,
+a,LSAT,NWS,N.W.South-America,South America,Confidence ratio,7.667825792909701,unitless,,
+a,LSAT,NSA,N.South-America,South America,Confidence ratio,5.784077142412149,unitless,,
+a,LSAT,NES,N.E.South-America,South America,Confidence ratio,7.403991352297346,unitless,,
+a,LSAT,SAM,South-American-Monsoon,South America,Confidence ratio,4.732529493058963,unitless,,
+a,LSAT,SWS,S.W.South-America,South America,Confidence ratio,6.66143451526193,unitless,,
+a,LSAT,SES,S.E.South-America,South America,Confidence ratio,5.441271353378005,unitless,,
+a,LSAT,SSA,S.South-America,South America,Confidence ratio,5.6517877664452145,unitless,,
+a,LSAT,NEU,N.Europe,Europe,Confidence ratio,1.9926819840411534,unitless,,
+a,LSAT,WCE,West&Central-Europe,Europe,Confidence ratio,4.742811068500509,unitless,,
+a,LSAT,EEU,E.Europe,Europe,Confidence ratio,4.3020799192945525,unitless,,
+a,LSAT,MED,Mediterranean,Europe,Confidence ratio,6.684538010094896,unitless,,
+a,LSAT,SAH,Sahara,Africa,Confidence ratio,8.555467389179347,unitless,,
+a,LSAT,WAF,Western-Africa,Africa,Confidence ratio,4.4533305328791295,unitless,,
+a,LSAT,CAF,Central-Africa,Africa,Confidence ratio,4.031208523566461,unitless,,
+a,LSAT,NEAF,N.Eastern-Africa,Africa,Confidence ratio,5.762430003579871,unitless,,
+a,LSAT,SEAF,S.Eastern-Africa,Africa,Confidence ratio,6.255527657055269,unitless,,
+a,LSAT,WSAF,W.Southern-Africa,Africa,Confidence ratio,9.431405625567113,unitless,,
+a,LSAT,ESAF,E.Southern-Africa,Africa,Confidence ratio,7.216029062352441,unitless,,
+a,LSAT,MDG,Madagascar,Africa,Confidence ratio,8.967836690984118,unitless,,
+a,LSAT,RAR,Russian-Arctic,Asia,Confidence ratio,5.336678611100162,unitless,,
+a,LSAT,WSB,W.Siberia,Asia,Confidence ratio,5.618033625845193,unitless,,
+a,LSAT,ESB,E.Siberia,Asia,Confidence ratio,6.65927380542869,unitless,,
+a,LSAT,RFE,Russian-Far-East,Asia,Confidence ratio,3.9539392341272466,unitless,,
+a,LSAT,WCA,W.C.Asia,Asia,Confidence ratio,6.239024536035737,unitless,,
+a,LSAT,ECA,E.C.Asia,Asia,Confidence ratio,6.676056316750146,unitless,,
+a,LSAT,TIB,Tibetan-Plateau,Asia,Confidence ratio,1.5197326862674363,unitless,,
+a,LSAT,EAS,E.Asia,Asia,Confidence ratio,6.157089205948421,unitless,,
+a,LSAT,ARP,Arabian-Peninsula,Asia,Confidence ratio,9.216707896228172,unitless,,
+a,LSAT,SAS,S.Asia,Asia,Confidence ratio,2.8737405685853057,unitless,,
+a,LSAT,SEA,S.E.Asia,Australasia,Confidence ratio,10.29567322370728,unitless,,
+a,LSAT,NAU,N.Australia,Australasia,Confidence ratio,9.180763063708579,unitless,,
+a,LSAT,CAU,C.Australia,Australasia,Confidence ratio,6.605204355329568,unitless,,
+a,LSAT,EAU,E.Australia,Australasia,Confidence ratio,9.066493678711828,unitless,,
+a,LSAT,SAU,S.Australia,Australasia,Confidence ratio,5.0980853303774705,unitless,,
+a,LSAT,NZ,New-Zealand,Australasia,Confidence ratio,5.194223786411105,unitless,,
+a,LSAT,EAN,E.Antarctica,Antarctica,Confidence ratio,4.240189236441233,unitless,,
+a,LSAT,WAN,W.Antarctica,Antarctica,Confidence ratio,1.5984634268784061,unitless,,
+a,Raw prior,GIC,Greenland/Iceland,North and Central America,Confidence ratio,3.554105087177178,unitless,,
+a,Raw prior,NWN,N.W.North-America,North and Central America,Confidence ratio,4.219046244690107,unitless,,
+a,Raw prior,NEN,N.E.North-America,North and Central America,Confidence ratio,5.211253673719902,unitless,,
+a,Raw prior,WNA,W.North-America,North and Central America,Confidence ratio,3.8863812752600704,unitless,,
+a,Raw prior,CNA,C.North-America,North and Central America,Confidence ratio,1.3575973988612495,unitless,,
+a,Raw prior,ENA,E.North-America,North and Central America,Confidence ratio,4.900713642190694,unitless,,
+a,Raw prior,NCA,N.Central-America,North and Central America,Confidence ratio,5.409486441680118,unitless,,
+a,Raw prior,SCA,S.Central-America,North and Central America,Confidence ratio,6.805019786661425,unitless,,
+a,Raw prior,CAR,Caribbean,North and Central America,Confidence ratio,6.452654203285259,unitless,,
+a,Raw prior,NWS,N.W.South-America,South America,Confidence ratio,5.1869097176192165,unitless,,
+a,Raw prior,NSA,N.South-America,South America,Confidence ratio,4.302773491691227,unitless,,
+a,Raw prior,NES,N.E.South-America,South America,Confidence ratio,5.436828992088241,unitless,,
+a,Raw prior,SAM,South-American-Monsoon,South America,Confidence ratio,5.2612095918502675,unitless,,
+a,Raw prior,SWS,S.W.South-America,South America,Confidence ratio,5.450450171992387,unitless,,
+a,Raw prior,SES,S.E.South-America,South America,Confidence ratio,4.017280808589414,unitless,,
+a,Raw prior,SSA,S.South-America,South America,Confidence ratio,4.244482927056767,unitless,,
+a,Raw prior,NEU,N.Europe,Europe,Confidence ratio,2.64774247215183,unitless,,
+a,Raw prior,WCE,West&Central-Europe,Europe,Confidence ratio,4.147370715680096,unitless,,
+a,Raw prior,EEU,E.Europe,Europe,Confidence ratio,4.544261406500759,unitless,,
+a,Raw prior,MED,Mediterranean,Europe,Confidence ratio,4.4859903750281696,unitless,,
+a,Raw prior,SAH,Sahara,Africa,Confidence ratio,5.560790751676523,unitless,,
+a,Raw prior,WAF,Western-Africa,Africa,Confidence ratio,4.692019667089398,unitless,,
+a,Raw prior,CAF,Central-Africa,Africa,Confidence ratio,4.203400220495061,unitless,,
+a,Raw prior,NEAF,N.Eastern-Africa,Africa,Confidence ratio,5.864976715674132,unitless,,
+a,Raw prior,SEAF,S.Eastern-Africa,Africa,Confidence ratio,6.698339689501791,unitless,,
+a,Raw prior,WSAF,W.Southern-Africa,Africa,Confidence ratio,5.790302421770248,unitless,,
+a,Raw prior,ESAF,E.Southern-Africa,Africa,Confidence ratio,6.8675691052084895,unitless,,
+a,Raw prior,MDG,Madagascar,Africa,Confidence ratio,6.813521132920086,unitless,,
+a,Raw prior,RAR,Russian-Arctic,Asia,Confidence ratio,5.348657761859251,unitless,,
+a,Raw prior,WSB,W.Siberia,Asia,Confidence ratio,4.615487482517162,unitless,,
+a,Raw prior,ESB,E.Siberia,Asia,Confidence ratio,5.218656891843324,unitless,,
+a,Raw prior,RFE,Russian-Far-East,Asia,Confidence ratio,4.690892145560901,unitless,,
+a,Raw prior,WCA,W.C.Asia,Asia,Confidence ratio,4.457105188438525,unitless,,
+a,Raw prior,ECA,E.C.Asia,Asia,Confidence ratio,5.01233783485362,unitless,,
+a,Raw prior,TIB,Tibetan-Plateau,Asia,Confidence ratio,2.601199768480924,unitless,,
+a,Raw prior,EAS,E.Asia,Asia,Confidence ratio,3.8017708443391105,unitless,,
+a,Raw prior,ARP,Arabian-Peninsula,Asia,Confidence ratio,5.777933785761774,unitless,,
+a,Raw prior,SAS,S.Asia,Asia,Confidence ratio,2.6038752664048226,unitless,,
+a,Raw prior,SEA,S.E.Asia,Australasia,Confidence ratio,5.249120272987318,unitless,,
+a,Raw prior,NAU,N.Australia,Australasia,Confidence ratio,6.295688537475014,unitless,,
+a,Raw prior,CAU,C.Australia,Australasia,Confidence ratio,5.4478987984009875,unitless,,
+a,Raw prior,EAU,E.Australia,Australasia,Confidence ratio,7.0596470574860675,unitless,,
+a,Raw prior,SAU,S.Australia,Australasia,Confidence ratio,4.304152464116996,unitless,,
+a,Raw prior,NZ,New-Zealand,Australasia,Confidence ratio,4.8114965863252905,unitless,,
+a,Raw prior,EAN,E.Antarctica,Antarctica,Confidence ratio,3.410588093681614,unitless,,
+a,Raw prior,WAN,W.Antarctica,Antarctica,Confidence ratio,1.5274707789239705,unitless,,
+b,Region,GIC,Greenland/Iceland,North and Central America,Precision after adjustment,4.379721585475079,degC,45,pseudo-observation realizations
+b,Region,NWN,N.W.North-America,North and Central America,Precision after adjustment,2.0175361061634307,degC,45,pseudo-observation realizations
+b,Region,NEN,N.E.North-America,North and Central America,Precision after adjustment,2.9916316199836563,degC,45,pseudo-observation realizations
+b,Region,WNA,W.North-America,North and Central America,Precision after adjustment,0.8279844173078682,degC,45,pseudo-observation realizations
+b,Region,CNA,C.North-America,North and Central America,Precision after adjustment,0.7896034456746543,degC,45,pseudo-observation realizations
+b,Region,ENA,E.North-America,North and Central America,Precision after adjustment,0.5942602968257877,degC,45,pseudo-observation realizations
+b,Region,NCA,N.Central-America,North and Central America,Precision after adjustment,0.527706625636763,degC,45,pseudo-observation realizations
+b,Region,SCA,S.Central-America,North and Central America,Precision after adjustment,0.40013479935918306,degC,45,pseudo-observation realizations
+b,Region,CAR,Caribbean,North and Central America,Precision after adjustment,0.2966452413958407,degC,45,pseudo-observation realizations
+b,Region,NWS,N.W.South-America,South America,Precision after adjustment,0.7221142735498549,degC,45,pseudo-observation realizations
+b,Region,NSA,N.South-America,South America,Precision after adjustment,1.3896229034782646,degC,45,pseudo-observation realizations
+b,Region,NES,N.E.South-America,South America,Precision after adjustment,0.7110042755818833,degC,45,pseudo-observation realizations
+b,Region,SAM,South-American-Monsoon,South America,Precision after adjustment,1.3007623466803446,degC,45,pseudo-observation realizations
+b,Region,SWS,S.W.South-America,South America,Precision after adjustment,0.4985305710680926,degC,45,pseudo-observation realizations
+b,Region,SES,S.E.South-America,South America,Precision after adjustment,0.6675162457381884,degC,45,pseudo-observation realizations
+b,Region,SSA,S.South-America,South America,Precision after adjustment,0.3730327362915779,degC,45,pseudo-observation realizations
+b,Region,NEU,N.Europe,Europe,Precision after adjustment,1.7385932644626187,degC,45,pseudo-observation realizations
+b,Region,WCE,West&Central-Europe,Europe,Precision after adjustment,0.8531201710634883,degC,45,pseudo-observation realizations
+b,Region,EEU,E.Europe,Europe,Precision after adjustment,1.267638152030191,degC,45,pseudo-observation realizations
+b,Region,MED,Mediterranean,Europe,Precision after adjustment,0.5813763367642159,degC,45,pseudo-observation realizations
+b,Region,SAH,Sahara,Africa,Precision after adjustment,1.3522642585748421,degC,45,pseudo-observation realizations
+b,Region,WAF,Western-Africa,Africa,Precision after adjustment,0.5973170542891442,degC,45,pseudo-observation realizations
+b,Region,CAF,Central-Africa,Africa,Precision after adjustment,0.901815705751718,degC,45,pseudo-observation realizations
+b,Region,NEAF,N.Eastern-Africa,Africa,Precision after adjustment,0.7561301898825813,degC,45,pseudo-observation realizations
+b,Region,SEAF,S.Eastern-Africa,Africa,Precision after adjustment,0.825065804457773,degC,45,pseudo-observation realizations
+b,Region,WSAF,W.Southern-Africa,Africa,Precision after adjustment,0.7273997417077297,degC,45,pseudo-observation realizations
+b,Region,ESAF,E.Southern-Africa,Africa,Precision after adjustment,0.6513147760958016,degC,45,pseudo-observation realizations
+b,Region,MDG,Madagascar,Africa,Precision after adjustment,0.44331105664692966,degC,45,pseudo-observation realizations
+b,Region,RAR,Russian-Arctic,Asia,Precision after adjustment,3.578183040473312,degC,45,pseudo-observation realizations
+b,Region,WSB,W.Siberia,Asia,Precision after adjustment,1.4901565148553961,degC,45,pseudo-observation realizations
+b,Region,ESB,E.Siberia,Asia,Precision after adjustment,1.3250271874805202,degC,45,pseudo-observation realizations
+b,Region,RFE,Russian-Far-East,Asia,Precision after adjustment,1.874284629201872,degC,45,pseudo-observation realizations
+b,Region,WCA,W.C.Asia,Asia,Precision after adjustment,0.9708693012279336,degC,45,pseudo-observation realizations
+b,Region,ECA,E.C.Asia,Asia,Precision after adjustment,1.0639150394739025,degC,45,pseudo-observation realizations
+b,Region,TIB,Tibetan-Plateau,Asia,Precision after adjustment,1.4401245902539928,degC,45,pseudo-observation realizations
+b,Region,EAS,E.Asia,Asia,Precision after adjustment,0.5860989436494792,degC,45,pseudo-observation realizations
+b,Region,ARP,Arabian-Peninsula,Asia,Precision after adjustment,0.9613988833774344,degC,45,pseudo-observation realizations
+b,Region,SAS,S.Asia,Asia,Precision after adjustment,0.5520180933207802,degC,45,pseudo-observation realizations
+b,Region,SEA,S.E.Asia,Australasia,Precision after adjustment,0.35985729285741236,degC,45,pseudo-observation realizations
+b,Region,NAU,N.Australia,Australasia,Precision after adjustment,0.4904365376021261,degC,45,pseudo-observation realizations
+b,Region,CAU,C.Australia,Australasia,Precision after adjustment,0.9046009772673216,degC,45,pseudo-observation realizations
+b,Region,EAU,E.Australia,Australasia,Precision after adjustment,0.5689747847854153,degC,45,pseudo-observation realizations
+b,Region,SAU,S.Australia,Australasia,Precision after adjustment,0.41902252717615485,degC,45,pseudo-observation realizations
+b,Region,NZ,New-Zealand,Australasia,Precision after adjustment,0.40843695483145387,degC,45,pseudo-observation realizations
+b,Region,EAN,E.Antarctica,Antarctica,Precision after adjustment,1.5657677245014392,degC,45,pseudo-observation realizations
+b,Region,WAN,W.Antarctica,Antarctica,Precision after adjustment,2.531206813569889,degC,45,pseudo-observation realizations
+b,Regions within Continent,GIC,Greenland/Iceland,North and Central America,Precision after adjustment,2.4678738519756918,degC,45,pseudo-observation realizations
+b,Regions within Continent,NWN,N.W.North-America,North and Central America,Precision after adjustment,1.0252345502703737,degC,45,pseudo-observation realizations
+b,Regions within Continent,NEN,N.E.North-America,North and Central America,Precision after adjustment,1.5541279742442982,degC,45,pseudo-observation realizations
+b,Regions within Continent,WNA,W.North-America,North and Central America,Precision after adjustment,0.6147779151715483,degC,45,pseudo-observation realizations
+b,Regions within Continent,CNA,C.North-America,North and Central America,Precision after adjustment,0.6042256377209139,degC,45,pseudo-observation realizations
+b,Regions within Continent,ENA,E.North-America,North and Central America,Precision after adjustment,0.48884332066419095,degC,45,pseudo-observation realizations
+b,Regions within Continent,NCA,N.Central-America,North and Central America,Precision after adjustment,0.43716793819555977,degC,45,pseudo-observation realizations
+b,Regions within Continent,SCA,S.Central-America,North and Central America,Precision after adjustment,0.3727028143384431,degC,45,pseudo-observation realizations
+b,Regions within Continent,CAR,Caribbean,North and Central America,Precision after adjustment,0.31391242145977827,degC,45,pseudo-observation realizations
+b,Regions within Continent,NWS,N.W.South-America,South America,Precision after adjustment,0.44019037543465134,degC,45,pseudo-observation realizations
+b,Regions within Continent,NSA,N.South-America,South America,Precision after adjustment,0.6070873955156645,degC,45,pseudo-observation realizations
+b,Regions within Continent,NES,N.E.South-America,South America,Precision after adjustment,0.4486653670434629,degC,45,pseudo-observation realizations
+b,Regions within Continent,SAM,South-American-Monsoon,South America,Precision after adjustment,0.8305163337427293,degC,45,pseudo-observation realizations
+b,Regions within Continent,SWS,S.W.South-America,South America,Precision after adjustment,0.44952231337751625,degC,45,pseudo-observation realizations
+b,Regions within Continent,SES,S.E.South-America,South America,Precision after adjustment,0.5808538062302773,degC,45,pseudo-observation realizations
+b,Regions within Continent,SSA,S.South-America,South America,Precision after adjustment,0.3744603815914055,degC,45,pseudo-observation realizations
+b,Regions within Continent,NEU,N.Europe,Europe,Precision after adjustment,1.279829570314606,degC,45,pseudo-observation realizations
+b,Regions within Continent,WCE,West&Central-Europe,Europe,Precision after adjustment,0.6858569427427541,degC,45,pseudo-observation realizations
+b,Regions within Continent,EEU,E.Europe,Europe,Precision after adjustment,0.9045924345955293,degC,45,pseudo-observation realizations
+b,Regions within Continent,MED,Mediterranean,Europe,Precision after adjustment,0.6227730643660659,degC,45,pseudo-observation realizations
+b,Regions within Continent,SAH,Sahara,Africa,Precision after adjustment,0.8855232073915662,degC,45,pseudo-observation realizations
+b,Regions within Continent,WAF,Western-Africa,Africa,Precision after adjustment,0.5413063746699986,degC,45,pseudo-observation realizations
+b,Regions within Continent,CAF,Central-Africa,Africa,Precision after adjustment,0.7111198791564516,degC,45,pseudo-observation realizations
+b,Regions within Continent,NEAF,N.Eastern-Africa,Africa,Precision after adjustment,0.6157239701193833,degC,45,pseudo-observation realizations
+b,Regions within Continent,SEAF,S.Eastern-Africa,Africa,Precision after adjustment,0.5325317817207272,degC,45,pseudo-observation realizations
+b,Regions within Continent,WSAF,W.Southern-Africa,Africa,Precision after adjustment,0.4837175093600827,degC,45,pseudo-observation realizations
+b,Regions within Continent,ESAF,E.Southern-Africa,Africa,Precision after adjustment,0.5540581804518132,degC,45,pseudo-observation realizations
+b,Regions within Continent,MDG,Madagascar,Africa,Precision after adjustment,0.3908214792803419,degC,45,pseudo-observation realizations
+b,Regions within Continent,RAR,Russian-Arctic,Asia,Precision after adjustment,1.8592731225121661,degC,45,pseudo-observation realizations
+b,Regions within Continent,WSB,W.Siberia,Asia,Precision after adjustment,0.9413578326845958,degC,45,pseudo-observation realizations
+b,Regions within Continent,ESB,E.Siberia,Asia,Precision after adjustment,0.9008823971474271,degC,45,pseudo-observation realizations
+b,Regions within Continent,RFE,Russian-Far-East,Asia,Precision after adjustment,1.263649400108208,degC,45,pseudo-observation realizations
+b,Regions within Continent,WCA,W.C.Asia,Asia,Precision after adjustment,0.7349186028512098,degC,45,pseudo-observation realizations
+b,Regions within Continent,ECA,E.C.Asia,Asia,Precision after adjustment,0.6749753489470478,degC,45,pseudo-observation realizations
+b,Regions within Continent,TIB,Tibetan-Plateau,Asia,Precision after adjustment,1.0639631460153256,degC,45,pseudo-observation realizations
+b,Regions within Continent,EAS,E.Asia,Asia,Precision after adjustment,0.5040216463454255,degC,45,pseudo-observation realizations
+b,Regions within Continent,ARP,Arabian-Peninsula,Asia,Precision after adjustment,0.5756857928662324,degC,45,pseudo-observation realizations
+b,Regions within Continent,SAS,S.Asia,Asia,Precision after adjustment,0.5445116293362121,degC,45,pseudo-observation realizations
+b,Regions within Continent,SEA,S.E.Asia,Australasia,Precision after adjustment,0.35528039290692487,degC,45,pseudo-observation realizations
+b,Regions within Continent,NAU,N.Australia,Australasia,Precision after adjustment,0.3332375236233946,degC,45,pseudo-observation realizations
+b,Regions within Continent,CAU,C.Australia,Australasia,Precision after adjustment,0.6007090089167023,degC,45,pseudo-observation realizations
+b,Regions within Continent,EAU,E.Australia,Australasia,Precision after adjustment,0.40657239032797976,degC,45,pseudo-observation realizations
+b,Regions within Continent,SAU,S.Australia,Australasia,Precision after adjustment,0.4058628924022819,degC,45,pseudo-observation realizations
+b,Regions within Continent,NZ,New-Zealand,Australasia,Precision after adjustment,0.37113699881427265,degC,45,pseudo-observation realizations
+b,Regions within Continent,EAN,E.Antarctica,Antarctica,Precision after adjustment,1.5657677245014392,degC,45,pseudo-observation realizations
+b,Regions within Continent,WAN,W.Antarctica,Antarctica,Precision after adjustment,2.531206813569889,degC,45,pseudo-observation realizations
+b,Region + LSAT,GIC,Greenland/Iceland,North and Central America,Precision after adjustment,2.4688023063689926,degC,45,pseudo-observation realizations
+b,Region + LSAT,NWN,N.W.North-America,North and Central America,Precision after adjustment,1.3149296553219574,degC,45,pseudo-observation realizations
+b,Region + LSAT,NEN,N.E.North-America,North and Central America,Precision after adjustment,1.6210527534386516,degC,45,pseudo-observation realizations
+b,Region + LSAT,WNA,W.North-America,North and Central America,Precision after adjustment,0.7137683039251824,degC,45,pseudo-observation realizations
+b,Region + LSAT,CNA,C.North-America,North and Central America,Precision after adjustment,0.6823335659548871,degC,45,pseudo-observation realizations
+b,Region + LSAT,ENA,E.North-America,North and Central America,Precision after adjustment,0.49843902199629514,degC,45,pseudo-observation realizations
+b,Region + LSAT,NCA,N.Central-America,North and Central America,Precision after adjustment,0.45100755493805467,degC,45,pseudo-observation realizations
+b,Region + LSAT,SCA,S.Central-America,North and Central America,Precision after adjustment,0.31065482652398646,degC,45,pseudo-observation realizations
+b,Region + LSAT,CAR,Caribbean,North and Central America,Precision after adjustment,0.24501444203017908,degC,45,pseudo-observation realizations
+b,Region + LSAT,NWS,N.W.South-America,South America,Precision after adjustment,0.5847081268813414,degC,45,pseudo-observation realizations
+b,Region + LSAT,NSA,N.South-America,South America,Precision after adjustment,0.9775217001580081,degC,45,pseudo-observation realizations
+b,Region + LSAT,NES,N.E.South-America,South America,Precision after adjustment,0.5798980548500148,degC,45,pseudo-observation realizations
+b,Region + LSAT,SAM,South-American-Monsoon,South America,Precision after adjustment,1.0846333530024928,degC,45,pseudo-observation realizations
+b,Region + LSAT,SWS,S.W.South-America,South America,Precision after adjustment,0.4498751255617851,degC,45,pseudo-observation realizations
+b,Region + LSAT,SES,S.E.South-America,South America,Precision after adjustment,0.5945711091135311,degC,45,pseudo-observation realizations
+b,Region + LSAT,SSA,S.South-America,South America,Precision after adjustment,0.31491794916530097,degC,45,pseudo-observation realizations
+b,Region + LSAT,NEU,N.Europe,Europe,Precision after adjustment,1.4175958651213227,degC,45,pseudo-observation realizations
+b,Region + LSAT,WCE,West&Central-Europe,Europe,Precision after adjustment,0.7330427833499177,degC,45,pseudo-observation realizations
+b,Region + LSAT,EEU,E.Europe,Europe,Precision after adjustment,1.116243110598721,degC,45,pseudo-observation realizations
+b,Region + LSAT,MED,Mediterranean,Europe,Precision after adjustment,0.5061767976476577,degC,45,pseudo-observation realizations
+b,Region + LSAT,SAH,Sahara,Africa,Precision after adjustment,0.6108775337293723,degC,45,pseudo-observation realizations
+b,Region + LSAT,WAF,Western-Africa,Africa,Precision after adjustment,0.5406974690882885,degC,45,pseudo-observation realizations
+b,Region + LSAT,CAF,Central-Africa,Africa,Precision after adjustment,0.7844805876124942,degC,45,pseudo-observation realizations
+b,Region + LSAT,NEAF,N.Eastern-Africa,Africa,Precision after adjustment,0.6754098923870967,degC,45,pseudo-observation realizations
+b,Region + LSAT,SEAF,S.Eastern-Africa,Africa,Precision after adjustment,0.7105259795443282,degC,45,pseudo-observation realizations
+b,Region + LSAT,WSAF,W.Southern-Africa,Africa,Precision after adjustment,0.511571128397242,degC,45,pseudo-observation realizations
+b,Region + LSAT,ESAF,E.Southern-Africa,Africa,Precision after adjustment,0.562517612261009,degC,45,pseudo-observation realizations
+b,Region + LSAT,MDG,Madagascar,Africa,Precision after adjustment,0.38120914864719363,degC,45,pseudo-observation realizations
+b,Region + LSAT,RAR,Russian-Arctic,Asia,Precision after adjustment,2.45061378154113,degC,45,pseudo-observation realizations
+b,Region + LSAT,WSB,W.Siberia,Asia,Precision after adjustment,1.0139505809702989,degC,45,pseudo-observation realizations
+b,Region + LSAT,ESB,E.Siberia,Asia,Precision after adjustment,0.9148720299954156,degC,45,pseudo-observation realizations
+b,Region + LSAT,RFE,Russian-Far-East,Asia,Precision after adjustment,1.3629300920115937,degC,45,pseudo-observation realizations
+b,Region + LSAT,WCA,W.C.Asia,Asia,Precision after adjustment,0.738380569165014,degC,45,pseudo-observation realizations
+b,Region + LSAT,ECA,E.C.Asia,Asia,Precision after adjustment,0.7611169727884741,degC,45,pseudo-observation realizations
+b,Region + LSAT,TIB,Tibetan-Plateau,Asia,Precision after adjustment,1.1921397650237133,degC,45,pseudo-observation realizations
+b,Region + LSAT,EAS,E.Asia,Asia,Precision after adjustment,0.4525931283991036,degC,45,pseudo-observation realizations
+b,Region + LSAT,ARP,Arabian-Peninsula,Asia,Precision after adjustment,0.6606171328757474,degC,45,pseudo-observation realizations
+b,Region + LSAT,SAS,S.Asia,Asia,Precision after adjustment,0.5057498141891078,degC,45,pseudo-observation realizations
+b,Region + LSAT,SEA,S.E.Asia,Australasia,Precision after adjustment,0.294068864153135,degC,45,pseudo-observation realizations
+b,Region + LSAT,NAU,N.Australia,Australasia,Precision after adjustment,0.3643313879279116,degC,45,pseudo-observation realizations
+b,Region + LSAT,CAU,C.Australia,Australasia,Precision after adjustment,0.7442059843384038,degC,45,pseudo-observation realizations
+b,Region + LSAT,EAU,E.Australia,Australasia,Precision after adjustment,0.45618718453637724,degC,45,pseudo-observation realizations
+b,Region + LSAT,SAU,S.Australia,Australasia,Precision after adjustment,0.383180022882833,degC,45,pseudo-observation realizations
+b,Region + LSAT,NZ,New-Zealand,Australasia,Precision after adjustment,0.36061286474930826,degC,45,pseudo-observation realizations
+b,Region + LSAT,EAN,E.Antarctica,Antarctica,Precision after adjustment,1.1519776199880094,degC,45,pseudo-observation realizations
+b,Region + LSAT,WAN,W.Antarctica,Antarctica,Precision after adjustment,2.192343302943972,degC,45,pseudo-observation realizations
+b,Continent,GIC,Greenland/Iceland,North and Central America,Precision after adjustment,2.416308822535304,degC,45,pseudo-observation realizations
+b,Continent,NWN,N.W.North-America,North and Central America,Precision after adjustment,1.4804267956346924,degC,45,pseudo-observation realizations
+b,Continent,NEN,N.E.North-America,North and Central America,Precision after adjustment,1.537210148231433,degC,45,pseudo-observation realizations
+b,Continent,WNA,W.North-America,North and Central America,Precision after adjustment,1.2147486484643744,degC,45,pseudo-observation realizations
+b,Continent,CNA,C.North-America,North and Central America,Precision after adjustment,1.337307681295864,degC,45,pseudo-observation realizations
+b,Continent,ENA,E.North-America,North and Central America,Precision after adjustment,0.7480720681055222,degC,45,pseudo-observation realizations
+b,Continent,NCA,N.Central-America,North and Central America,Precision after adjustment,0.7799081471867263,degC,45,pseudo-observation realizations
+b,Continent,SCA,S.Central-America,North and Central America,Precision after adjustment,0.5772887164464474,degC,45,pseudo-observation realizations
+b,Continent,CAR,Caribbean,North and Central America,Precision after adjustment,0.4643747765871492,degC,45,pseudo-observation realizations
+b,Continent,NWS,N.W.South-America,South America,Precision after adjustment,0.5866898728429084,degC,45,pseudo-observation realizations
+b,Continent,NSA,N.South-America,South America,Precision after adjustment,0.8069927081688985,degC,45,pseudo-observation realizations
+b,Continent,NES,N.E.South-America,South America,Precision after adjustment,0.5588608924199625,degC,45,pseudo-observation realizations
+b,Continent,SAM,South-American-Monsoon,South America,Precision after adjustment,1.0293810485627324,degC,45,pseudo-observation realizations
+b,Continent,SWS,S.W.South-America,South America,Precision after adjustment,0.7306029232717612,degC,45,pseudo-observation realizations
+b,Continent,SES,S.E.South-America,South America,Precision after adjustment,0.8403527898363774,degC,45,pseudo-observation realizations
+b,Continent,SSA,S.South-America,South America,Precision after adjustment,0.6252754128927313,degC,45,pseudo-observation realizations
+b,Continent,NEU,N.Europe,Europe,Precision after adjustment,1.648690337241123,degC,45,pseudo-observation realizations
+b,Continent,WCE,West&Central-Europe,Europe,Precision after adjustment,0.7946628323917939,degC,45,pseudo-observation realizations
+b,Continent,EEU,E.Europe,Europe,Precision after adjustment,1.0700062247877613,degC,45,pseudo-observation realizations
+b,Continent,MED,Mediterranean,Europe,Precision after adjustment,0.7470546636510483,degC,45,pseudo-observation realizations
+b,Continent,SAH,Sahara,Africa,Precision after adjustment,0.8876285401776144,degC,45,pseudo-observation realizations
+b,Continent,WAF,Western-Africa,Africa,Precision after adjustment,0.7435167540758232,degC,45,pseudo-observation realizations
+b,Continent,CAF,Central-Africa,Africa,Precision after adjustment,0.9160233550394652,degC,45,pseudo-observation realizations
+b,Continent,NEAF,N.Eastern-Africa,Africa,Precision after adjustment,0.7309708362224226,degC,45,pseudo-observation realizations
+b,Continent,SEAF,S.Eastern-Africa,Africa,Precision after adjustment,0.6341355264854863,degC,45,pseudo-observation realizations
+b,Continent,WSAF,W.Southern-Africa,Africa,Precision after adjustment,0.5661717036697165,degC,45,pseudo-observation realizations
+b,Continent,ESAF,E.Southern-Africa,Africa,Precision after adjustment,0.6267268898334053,degC,45,pseudo-observation realizations
+b,Continent,MDG,Madagascar,Africa,Precision after adjustment,0.4904045015844751,degC,45,pseudo-observation realizations
+b,Continent,RAR,Russian-Arctic,Asia,Precision after adjustment,2.5325319927322374,degC,45,pseudo-observation realizations
+b,Continent,WSB,W.Siberia,Asia,Precision after adjustment,1.2824870093229588,degC,45,pseudo-observation realizations
+b,Continent,ESB,E.Siberia,Asia,Precision after adjustment,1.2443307970525195,degC,45,pseudo-observation realizations
+b,Continent,RFE,Russian-Far-East,Asia,Precision after adjustment,2.0515273312753037,degC,45,pseudo-observation realizations
+b,Continent,WCA,W.C.Asia,Asia,Precision after adjustment,1.2771472805927604,degC,45,pseudo-observation realizations
+b,Continent,ECA,E.C.Asia,Asia,Precision after adjustment,1.0554097150010375,degC,45,pseudo-observation realizations
+b,Continent,TIB,Tibetan-Plateau,Asia,Precision after adjustment,2.868245724412965,degC,45,pseudo-observation realizations
+b,Continent,EAS,E.Asia,Asia,Precision after adjustment,0.8159507978667403,degC,45,pseudo-observation realizations
+b,Continent,ARP,Arabian-Peninsula,Asia,Precision after adjustment,0.9756644606467197,degC,45,pseudo-observation realizations
+b,Continent,SAS,S.Asia,Asia,Precision after adjustment,1.1628048269163531,degC,45,pseudo-observation realizations
+b,Continent,SEA,S.E.Asia,Australasia,Precision after adjustment,0.38278950836976516,degC,45,pseudo-observation realizations
+b,Continent,NAU,N.Australia,Australasia,Precision after adjustment,0.3488324534797472,degC,45,pseudo-observation realizations
+b,Continent,CAU,C.Australia,Australasia,Precision after adjustment,0.6264742258466652,degC,45,pseudo-observation realizations
+b,Continent,EAU,E.Australia,Australasia,Precision after adjustment,0.5296186453257677,degC,45,pseudo-observation realizations
+b,Continent,SAU,S.Australia,Australasia,Precision after adjustment,0.5183325160786174,degC,45,pseudo-observation realizations
+b,Continent,NZ,New-Zealand,Australasia,Precision after adjustment,0.6165533873679093,degC,45,pseudo-observation realizations
+b,Continent,EAN,E.Antarctica,Antarctica,Precision after adjustment,1.5657677245014392,degC,45,pseudo-observation realizations
+b,Continent,WAN,W.Antarctica,Antarctica,Precision after adjustment,2.531206813569889,degC,45,pseudo-observation realizations
+b,Continent + LSAT,GIC,Greenland/Iceland,North and Central America,Precision after adjustment,2.0334075761273307,degC,45,pseudo-observation realizations
+b,Continent + LSAT,NWN,N.W.North-America,North and Central America,Precision after adjustment,1.2421328706813632,degC,45,pseudo-observation realizations
+b,Continent + LSAT,NEN,N.E.North-America,North and Central America,Precision after adjustment,1.3769376698884406,degC,45,pseudo-observation realizations
+b,Continent + LSAT,WNA,W.North-America,North and Central America,Precision after adjustment,0.9333617674948288,degC,45,pseudo-observation realizations
+b,Continent + LSAT,CNA,C.North-America,North and Central America,Precision after adjustment,1.1403745211441152,degC,45,pseudo-observation realizations
+b,Continent + LSAT,ENA,E.North-America,North and Central America,Precision after adjustment,0.7014186899535749,degC,45,pseudo-observation realizations
+b,Continent + LSAT,NCA,N.Central-America,North and Central America,Precision after adjustment,0.5733144181015666,degC,45,pseudo-observation realizations
+b,Continent + LSAT,SCA,S.Central-America,North and Central America,Precision after adjustment,0.3866725944987843,degC,45,pseudo-observation realizations
+b,Continent + LSAT,CAR,Caribbean,North and Central America,Precision after adjustment,0.36062842224366853,degC,45,pseudo-observation realizations
+b,Continent + LSAT,NWS,N.W.South-America,South America,Precision after adjustment,0.49895994476910427,degC,45,pseudo-observation realizations
+b,Continent + LSAT,NSA,N.South-America,South America,Precision after adjustment,0.6992228067292952,degC,45,pseudo-observation realizations
+b,Continent + LSAT,NES,N.E.South-America,South America,Precision after adjustment,0.5156188776433642,degC,45,pseudo-observation realizations
+b,Continent + LSAT,SAM,South-American-Monsoon,South America,Precision after adjustment,0.8881156036432157,degC,45,pseudo-observation realizations
+b,Continent + LSAT,SWS,S.W.South-America,South America,Precision after adjustment,0.6492358377236124,degC,45,pseudo-observation realizations
+b,Continent + LSAT,SES,S.E.South-America,South America,Precision after adjustment,0.7419691876320277,degC,45,pseudo-observation realizations
+b,Continent + LSAT,SSA,S.South-America,South America,Precision after adjustment,0.5278121627390053,degC,45,pseudo-observation realizations
+b,Continent + LSAT,NEU,N.Europe,Europe,Precision after adjustment,1.4655734649331482,degC,45,pseudo-observation realizations
+b,Continent + LSAT,WCE,West&Central-Europe,Europe,Precision after adjustment,0.7113058384305678,degC,45,pseudo-observation realizations
+b,Continent + LSAT,EEU,E.Europe,Europe,Precision after adjustment,0.9647509885522512,degC,45,pseudo-observation realizations
+b,Continent + LSAT,MED,Mediterranean,Europe,Precision after adjustment,0.5555976573691264,degC,45,pseudo-observation realizations
+b,Continent + LSAT,SAH,Sahara,Africa,Precision after adjustment,0.570798795631603,degC,45,pseudo-observation realizations
+b,Continent + LSAT,WAF,Western-Africa,Africa,Precision after adjustment,0.6417885283328056,degC,45,pseudo-observation realizations
+b,Continent + LSAT,CAF,Central-Africa,Africa,Precision after adjustment,0.7991694879142781,degC,45,pseudo-observation realizations
+b,Continent + LSAT,NEAF,N.Eastern-Africa,Africa,Precision after adjustment,0.7021557091295751,degC,45,pseudo-observation realizations
+b,Continent + LSAT,SEAF,S.Eastern-Africa,Africa,Precision after adjustment,0.5867998500913408,degC,45,pseudo-observation realizations
+b,Continent + LSAT,WSAF,W.Southern-Africa,Africa,Precision after adjustment,0.4516971559825335,degC,45,pseudo-observation realizations
+b,Continent + LSAT,ESAF,E.Southern-Africa,Africa,Precision after adjustment,0.5791997657273943,degC,45,pseudo-observation realizations
+b,Continent + LSAT,MDG,Madagascar,Africa,Precision after adjustment,0.4328193472759106,degC,45,pseudo-observation realizations
+b,Continent + LSAT,RAR,Russian-Arctic,Asia,Precision after adjustment,2.2652836207256852,degC,45,pseudo-observation realizations
+b,Continent + LSAT,WSB,W.Siberia,Asia,Precision after adjustment,1.0041937517892676,degC,45,pseudo-observation realizations
+b,Continent + LSAT,ESB,E.Siberia,Asia,Precision after adjustment,1.000003603078246,degC,45,pseudo-observation realizations
+b,Continent + LSAT,RFE,Russian-Far-East,Asia,Precision after adjustment,1.6860467661174166,degC,45,pseudo-observation realizations
+b,Continent + LSAT,WCA,W.C.Asia,Asia,Precision after adjustment,0.9371832345483718,degC,45,pseudo-observation realizations
+b,Continent + LSAT,ECA,E.C.Asia,Asia,Precision after adjustment,0.8947096965006408,degC,45,pseudo-observation realizations
+b,Continent + LSAT,TIB,Tibetan-Plateau,Asia,Precision after adjustment,2.6602772312056224,degC,45,pseudo-observation realizations
+b,Continent + LSAT,EAS,E.Asia,Asia,Precision after adjustment,0.6097609886010804,degC,45,pseudo-observation realizations
+b,Continent + LSAT,ARP,Arabian-Peninsula,Asia,Precision after adjustment,0.7565628124777479,degC,45,pseudo-observation realizations
+b,Continent + LSAT,SAS,S.Asia,Asia,Precision after adjustment,1.044640243858515,degC,45,pseudo-observation realizations
+b,Continent + LSAT,SEA,S.E.Asia,Australasia,Precision after adjustment,0.29667793197184883,degC,45,pseudo-observation realizations
+b,Continent + LSAT,NAU,N.Australia,Australasia,Precision after adjustment,0.3213034304325475,degC,45,pseudo-observation realizations
+b,Continent + LSAT,CAU,C.Australia,Australasia,Precision after adjustment,0.6088584088288626,degC,45,pseudo-observation realizations
+b,Continent + LSAT,EAU,E.Australia,Australasia,Precision after adjustment,0.4510838358411484,degC,45,pseudo-observation realizations
+b,Continent + LSAT,SAU,S.Australia,Australasia,Precision after adjustment,0.46297528020919293,degC,45,pseudo-observation realizations
+b,Continent + LSAT,NZ,New-Zealand,Australasia,Precision after adjustment,0.577868511003789,degC,45,pseudo-observation realizations
+b,Continent + LSAT,EAN,E.Antarctica,Antarctica,Precision after adjustment,1.1519776199880094,degC,45,pseudo-observation realizations
+b,Continent + LSAT,WAN,W.Antarctica,Antarctica,Precision after adjustment,2.192343302943972,degC,45,pseudo-observation realizations
+b,LSAT,GIC,Greenland/Iceland,North and Central America,Precision after adjustment,2.4688023063689926,degC,45,pseudo-observation realizations
+b,LSAT,NWN,N.W.North-America,North and Central America,Precision after adjustment,1.4420938567009165,degC,45,pseudo-observation realizations
+b,LSAT,NEN,N.E.North-America,North and Central America,Precision after adjustment,1.6210527534386516,degC,45,pseudo-observation realizations
+b,LSAT,WNA,W.North-America,North and Central America,Precision after adjustment,0.9276817962379422,degC,45,pseudo-observation realizations
+b,LSAT,CNA,C.North-America,North and Central America,Precision after adjustment,1.1730859142703285,degC,45,pseudo-observation realizations
+b,LSAT,ENA,E.North-America,North and Central America,Precision after adjustment,0.7753303868813537,degC,45,pseudo-observation realizations
+b,LSAT,NCA,N.Central-America,North and Central America,Precision after adjustment,0.572985288875826,degC,45,pseudo-observation realizations
+b,LSAT,SCA,S.Central-America,North and Central America,Precision after adjustment,0.39799290282514377,degC,45,pseudo-observation realizations
+b,LSAT,CAR,Caribbean,North and Central America,Precision after adjustment,0.3671632399662234,degC,45,pseudo-observation realizations
+b,LSAT,NWS,N.W.South-America,South America,Precision after adjustment,0.8043659458629373,degC,45,pseudo-observation realizations
+b,LSAT,NSA,N.South-America,South America,Precision after adjustment,1.1003521197939297,degC,45,pseudo-observation realizations
+b,LSAT,NES,N.E.South-America,South America,Precision after adjustment,0.7622874853480962,degC,45,pseudo-observation realizations
+b,LSAT,SAM,South-American-Monsoon,South America,Precision after adjustment,1.288059261550764,degC,45,pseudo-observation realizations
+b,LSAT,SWS,S.W.South-America,South America,Precision after adjustment,0.8356025371402519,degC,45,pseudo-observation realizations
+b,LSAT,SES,S.E.South-America,South America,Precision after adjustment,0.9807613512655265,degC,45,pseudo-observation realizations
+b,LSAT,SSA,S.South-America,South America,Precision after adjustment,0.5918302846132572,degC,45,pseudo-observation realizations
+b,LSAT,NEU,N.Europe,Europe,Precision after adjustment,2.9907035556419754,degC,45,pseudo-observation realizations
+b,LSAT,WCE,West&Central-Europe,Europe,Precision after adjustment,1.0818410965057514,degC,45,pseudo-observation realizations
+b,LSAT,EEU,E.Europe,Europe,Precision after adjustment,1.4055266770726829,degC,45,pseudo-observation realizations
+b,LSAT,MED,Mediterranean,Europe,Precision after adjustment,0.6453529544614647,degC,45,pseudo-observation realizations
+b,LSAT,SAH,Sahara,Africa,Precision after adjustment,0.6131422655849823,degC,45,pseudo-observation realizations
+b,LSAT,WAF,Western-Africa,Africa,Precision after adjustment,0.9388488746154903,degC,45,pseudo-observation realizations
+b,LSAT,CAF,Central-Africa,Africa,Precision after adjustment,1.2296668328543838,degC,45,pseudo-observation realizations
+b,LSAT,NEAF,N.Eastern-Africa,Africa,Precision after adjustment,0.8842951048915408,degC,45,pseudo-observation realizations
+b,LSAT,SEAF,S.Eastern-Africa,Africa,Precision after adjustment,0.7888585683662291,degC,45,pseudo-observation realizations
+b,LSAT,WSAF,W.Southern-Africa,Africa,Precision after adjustment,0.5605037621780394,degC,45,pseudo-observation realizations
+b,LSAT,ESAF,E.Southern-Africa,Africa,Precision after adjustment,0.668366339117316,degC,45,pseudo-observation realizations
+b,LSAT,MDG,Madagascar,Africa,Precision after adjustment,0.5015782466467046,degC,45,pseudo-observation realizations
+b,LSAT,RAR,Russian-Arctic,Asia,Precision after adjustment,2.504441330205564,degC,45,pseudo-observation realizations
+b,LSAT,WSB,W.Siberia,Asia,Precision after adjustment,1.100372888538896,degC,45,pseudo-observation realizations
+b,LSAT,ESB,E.Siberia,Asia,Precision after adjustment,1.1954025970090425,degC,45,pseudo-observation realizations
+b,LSAT,RFE,Russian-Far-East,Asia,Precision after adjustment,1.748196138255478,degC,45,pseudo-observation realizations
+b,LSAT,WCA,W.C.Asia,Asia,Precision after adjustment,0.95341880370185,degC,45,pseudo-observation realizations
+b,LSAT,ECA,E.C.Asia,Asia,Precision after adjustment,0.9407224711482612,degC,45,pseudo-observation realizations
+b,LSAT,TIB,Tibetan-Plateau,Asia,Precision after adjustment,2.7128965847853315,degC,45,pseudo-observation realizations
+b,LSAT,EAS,E.Asia,Asia,Precision after adjustment,0.633503580938265,degC,45,pseudo-observation realizations
+b,LSAT,ARP,Arabian-Peninsula,Asia,Precision after adjustment,0.7731725845996119,degC,45,pseudo-observation realizations
+b,LSAT,SAS,S.Asia,Asia,Precision after adjustment,1.0892652340135056,degC,45,pseudo-observation realizations
+b,LSAT,SEA,S.E.Asia,Australasia,Precision after adjustment,0.38080109864327766,degC,45,pseudo-observation realizations
+b,LSAT,NAU,N.Australia,Australasia,Precision after adjustment,0.458035707087809,degC,45,pseudo-observation realizations
+b,LSAT,CAU,C.Australia,Australasia,Precision after adjustment,0.8403308917937344,degC,45,pseudo-observation realizations
+b,LSAT,EAU,E.Australia,Australasia,Precision after adjustment,0.6055480658950879,degC,45,pseudo-observation realizations
+b,LSAT,SAU,S.Australia,Australasia,Precision after adjustment,0.6873931760888524,degC,45,pseudo-observation realizations
+b,LSAT,NZ,New-Zealand,Australasia,Precision after adjustment,0.7900103653270559,degC,45,pseudo-observation realizations
+b,LSAT,EAN,E.Antarctica,Antarctica,Precision after adjustment,1.1519776199880094,degC,45,pseudo-observation realizations
+b,LSAT,WAN,W.Antarctica,Antarctica,Precision after adjustment,2.192343302943972,degC,45,pseudo-observation realizations
+b,Raw prior,GIC,Greenland/Iceland,North and Central America,Precision after adjustment,4.37972158547508,degC,45,pseudo-observation realizations
+b,Raw prior,NWN,N.W.North-America,North and Central America,Precision after adjustment,2.4474713348893156,degC,45,pseudo-observation realizations
+b,Raw prior,NEN,N.E.North-America,North and Central America,Precision after adjustment,2.9916316199836563,degC,45,pseudo-observation realizations
+b,Raw prior,WNA,W.North-America,North and Central America,Precision after adjustment,1.6173189896092361,degC,45,pseudo-observation realizations
+b,Raw prior,CNA,C.North-America,North and Central America,Precision after adjustment,1.6565701205763739,degC,45,pseudo-observation realizations
+b,Raw prior,ENA,E.North-America,North and Central America,Precision after adjustment,1.2978278274107362,degC,45,pseudo-observation realizations
+b,Raw prior,NCA,N.Central-America,North and Central America,Precision after adjustment,1.0359699744592585,degC,45,pseudo-observation realizations
+b,Raw prior,SCA,S.Central-America,North and Central America,Precision after adjustment,0.7738076665200323,degC,45,pseudo-observation realizations
+b,Raw prior,CAR,Caribbean,North and Central America,Precision after adjustment,0.7104994580106637,degC,45,pseudo-observation realizations
+b,Raw prior,NWS,N.W.South-America,South America,Precision after adjustment,1.3199257984182071,degC,45,pseudo-observation realizations
+b,Raw prior,NSA,N.South-America,South America,Precision after adjustment,1.858254221739816,degC,45,pseudo-observation realizations
+b,Raw prior,NES,N.E.South-America,South America,Precision after adjustment,1.1014685874507206,degC,45,pseudo-observation realizations
+b,Raw prior,SAM,South-American-Monsoon,South America,Precision after adjustment,1.7457309698348584,degC,45,pseudo-observation realizations
+b,Raw prior,SWS,S.W.South-America,South America,Precision after adjustment,1.2010620026857686,degC,45,pseudo-observation realizations
+b,Raw prior,SES,S.E.South-America,South America,Precision after adjustment,1.241597237861753,degC,45,pseudo-observation realizations
+b,Raw prior,SSA,S.South-America,South America,Precision after adjustment,0.9437365919555737,degC,45,pseudo-observation realizations
+b,Raw prior,NEU,N.Europe,Europe,Precision after adjustment,3.955470185193944,degC,45,pseudo-observation realizations
+b,Raw prior,WCE,West&Central-Europe,Europe,Precision after adjustment,1.8640418956497673,degC,45,pseudo-observation realizations
+b,Raw prior,EEU,E.Europe,Europe,Precision after adjustment,2.1791538978267435,degC,45,pseudo-observation realizations
+b,Raw prior,MED,Mediterranean,Europe,Precision after adjustment,1.3769219674435658,degC,45,pseudo-observation realizations
+b,Raw prior,SAH,Sahara,Africa,Precision after adjustment,1.3921647832705695,degC,45,pseudo-observation realizations
+b,Raw prior,WAF,Western-Africa,Africa,Precision after adjustment,1.0864148473297186,degC,45,pseudo-observation realizations
+b,Raw prior,CAF,Central-Africa,Africa,Precision after adjustment,1.4162384680544298,degC,45,pseudo-observation realizations
+b,Raw prior,NEAF,N.Eastern-Africa,Africa,Precision after adjustment,1.0708566384944527,degC,45,pseudo-observation realizations
+b,Raw prior,SEAF,S.Eastern-Africa,Africa,Precision after adjustment,0.9466666860633629,degC,45,pseudo-observation realizations
+b,Raw prior,WSAF,W.Southern-Africa,Africa,Precision after adjustment,0.9406184352904532,degC,45,pseudo-observation realizations
+b,Raw prior,ESAF,E.Southern-Africa,Africa,Precision after adjustment,0.9209618195444798,degC,45,pseudo-observation realizations
+b,Raw prior,MDG,Madagascar,Africa,Precision after adjustment,0.7208694476193971,degC,45,pseudo-observation realizations
+b,Raw prior,RAR,Russian-Arctic,Asia,Precision after adjustment,3.6981907855131464,degC,45,pseudo-observation realizations
+b,Raw prior,WSB,W.Siberia,Asia,Precision after adjustment,1.9993626639647402,degC,45,pseudo-observation realizations
+b,Raw prior,ESB,E.Siberia,Asia,Precision after adjustment,2.1358813266744447,degC,45,pseudo-observation realizations
+b,Raw prior,RFE,Russian-Far-East,Asia,Precision after adjustment,2.7651811579725982,degC,45,pseudo-observation realizations
+b,Raw prior,WCA,W.C.Asia,Asia,Precision after adjustment,1.7864530132829333,degC,45,pseudo-observation realizations
+b,Raw prior,ECA,E.C.Asia,Asia,Precision after adjustment,1.6838010086226247,degC,45,pseudo-observation realizations
+b,Raw prior,TIB,Tibetan-Plateau,Asia,Precision after adjustment,3.928820332134067,degC,45,pseudo-observation realizations
+b,Raw prior,EAS,E.Asia,Asia,Precision after adjustment,1.4235735096810211,degC,45,pseudo-observation realizations
+b,Raw prior,ARP,Arabian-Peninsula,Asia,Precision after adjustment,1.3112483695172854,degC,45,pseudo-observation realizations
+b,Raw prior,SAS,S.Asia,Asia,Precision after adjustment,1.3473411062765965,degC,45,pseudo-observation realizations
+b,Raw prior,SEA,S.E.Asia,Australasia,Precision after adjustment,0.7627395883048124,degC,45,pseudo-observation realizations
+b,Raw prior,NAU,N.Australia,Australasia,Precision after adjustment,0.7509381794475852,degC,45,pseudo-observation realizations
+b,Raw prior,CAU,C.Australia,Australasia,Precision after adjustment,1.0945059878117214,degC,45,pseudo-observation realizations
+b,Raw prior,EAU,E.Australia,Australasia,Precision after adjustment,0.9417435373172857,degC,45,pseudo-observation realizations
+b,Raw prior,SAU,S.Australia,Australasia,Precision after adjustment,0.9298432960798967,degC,45,pseudo-observation realizations
+b,Raw prior,NZ,New-Zealand,Australasia,Precision after adjustment,0.9823266224344063,degC,45,pseudo-observation realizations
+b,Raw prior,EAN,E.Antarctica,Antarctica,Precision after adjustment,1.5657677245014392,degC,45,pseudo-observation realizations
+b,Raw prior,WAN,W.Antarctica,Antarctica,Precision after adjustment,2.531206813569889,degC,45,pseudo-observation realizations
+c,Region,GIC,Greenland/Iceland,North and Central America,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Region,NWN,N.W.North-America,North and Central America,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Region,NEN,N.E.North-America,North and Central America,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Region,WNA,W.North-America,North and Central America,Coverage rate after adjustment,95.55555555555556,percent,15,independent climate models
+c,Region,CNA,C.North-America,North and Central America,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Region,ENA,E.North-America,North and Central America,Coverage rate after adjustment,86.66666666666666,percent,15,independent climate models
+c,Region,NCA,N.Central-America,North and Central America,Coverage rate after adjustment,88.88888888888887,percent,15,independent climate models
+c,Region,SCA,S.Central-America,North and Central America,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Region,CAR,Caribbean,North and Central America,Coverage rate after adjustment,91.11111111111111,percent,15,independent climate models
+c,Region,NWS,N.W.South-America,South America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region,NSA,N.South-America,South America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region,NES,N.E.South-America,South America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region,SAM,South-American-Monsoon,South America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region,SWS,S.W.South-America,South America,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Region,SES,S.E.South-America,South America,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Region,SSA,S.South-America,South America,Coverage rate after adjustment,91.11111111111111,percent,15,independent climate models
+c,Region,NEU,N.Europe,Europe,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Region,WCE,West&Central-Europe,Europe,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Region,EEU,E.Europe,Europe,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Region,MED,Mediterranean,Europe,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region,SAH,Sahara,Africa,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Region,WAF,Western-Africa,Africa,Coverage rate after adjustment,100.0,percent,15,independent climate models
+c,Region,CAF,Central-Africa,Africa,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region,NEAF,N.Eastern-Africa,Africa,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Region,SEAF,S.Eastern-Africa,Africa,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Region,WSAF,W.Southern-Africa,Africa,Coverage rate after adjustment,91.11111111111111,percent,15,independent climate models
+c,Region,ESAF,E.Southern-Africa,Africa,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Region,MDG,Madagascar,Africa,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region,RAR,Russian-Arctic,Asia,Coverage rate after adjustment,100.0,percent,15,independent climate models
+c,Region,WSB,W.Siberia,Asia,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Region,ESB,E.Siberia,Asia,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Region,RFE,Russian-Far-East,Asia,Coverage rate after adjustment,91.11111111111111,percent,15,independent climate models
+c,Region,WCA,W.C.Asia,Asia,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Region,ECA,E.C.Asia,Asia,Coverage rate after adjustment,86.66666666666669,percent,15,independent climate models
+c,Region,TIB,Tibetan-Plateau,Asia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region,EAS,E.Asia,Asia,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Region,ARP,Arabian-Peninsula,Asia,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Region,SAS,S.Asia,Asia,Coverage rate after adjustment,95.55555555555556,percent,15,independent climate models
+c,Region,SEA,S.E.Asia,Australasia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region,NAU,N.Australia,Australasia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region,CAU,C.Australia,Australasia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region,EAU,E.Australia,Australasia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region,SAU,S.Australia,Australasia,Coverage rate after adjustment,97.77777777777779,percent,15,independent climate models
+c,Region,NZ,New-Zealand,Australasia,Coverage rate after adjustment,95.55555555555556,percent,15,independent climate models
+c,Region,EAN,E.Antarctica,Antarctica,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region,WAN,W.Antarctica,Antarctica,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Regions within Continent,GIC,Greenland/Iceland,North and Central America,Coverage rate after adjustment,80.0,percent,15,independent climate models
+c,Regions within Continent,NWN,N.W.North-America,North and Central America,Coverage rate after adjustment,82.22222222222221,percent,15,independent climate models
+c,Regions within Continent,NEN,N.E.North-America,North and Central America,Coverage rate after adjustment,82.22222222222221,percent,15,independent climate models
+c,Regions within Continent,WNA,W.North-America,North and Central America,Coverage rate after adjustment,88.88888888888887,percent,15,independent climate models
+c,Regions within Continent,CNA,C.North-America,North and Central America,Coverage rate after adjustment,71.1111111111111,percent,15,independent climate models
+c,Regions within Continent,ENA,E.North-America,North and Central America,Coverage rate after adjustment,82.22222222222221,percent,15,independent climate models
+c,Regions within Continent,NCA,N.Central-America,North and Central America,Coverage rate after adjustment,71.1111111111111,percent,15,independent climate models
+c,Regions within Continent,SCA,S.Central-America,North and Central America,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Regions within Continent,CAR,Caribbean,North and Central America,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Regions within Continent,NWS,N.W.South-America,South America,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Regions within Continent,NSA,N.South-America,South America,Coverage rate after adjustment,75.55555555555556,percent,15,independent climate models
+c,Regions within Continent,NES,N.E.South-America,South America,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Regions within Continent,SAM,South-American-Monsoon,South America,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Regions within Continent,SWS,S.W.South-America,South America,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Regions within Continent,SES,S.E.South-America,South America,Coverage rate after adjustment,97.77777777777777,percent,15,independent climate models
+c,Regions within Continent,SSA,S.South-America,South America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Regions within Continent,NEU,N.Europe,Europe,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Regions within Continent,WCE,West&Central-Europe,Europe,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Regions within Continent,EEU,E.Europe,Europe,Coverage rate after adjustment,86.66666666666666,percent,15,independent climate models
+c,Regions within Continent,MED,Mediterranean,Europe,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Regions within Continent,SAH,Sahara,Africa,Coverage rate after adjustment,88.8888888888889,percent,15,independent climate models
+c,Regions within Continent,WAF,Western-Africa,Africa,Coverage rate after adjustment,95.55555555555556,percent,15,independent climate models
+c,Regions within Continent,CAF,Central-Africa,Africa,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Regions within Continent,NEAF,N.Eastern-Africa,Africa,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Regions within Continent,SEAF,S.Eastern-Africa,Africa,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Regions within Continent,WSAF,W.Southern-Africa,Africa,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Regions within Continent,ESAF,E.Southern-Africa,Africa,Coverage rate after adjustment,84.44444444444443,percent,15,independent climate models
+c,Regions within Continent,MDG,Madagascar,Africa,Coverage rate after adjustment,91.11111111111111,percent,15,independent climate models
+c,Regions within Continent,RAR,Russian-Arctic,Asia,Coverage rate after adjustment,71.1111111111111,percent,15,independent climate models
+c,Regions within Continent,WSB,W.Siberia,Asia,Coverage rate after adjustment,80.0,percent,15,independent climate models
+c,Regions within Continent,ESB,E.Siberia,Asia,Coverage rate after adjustment,82.22222222222221,percent,15,independent climate models
+c,Regions within Continent,RFE,Russian-Far-East,Asia,Coverage rate after adjustment,79.99999999999999,percent,15,independent climate models
+c,Regions within Continent,WCA,W.C.Asia,Asia,Coverage rate after adjustment,77.77777777777777,percent,15,independent climate models
+c,Regions within Continent,ECA,E.C.Asia,Asia,Coverage rate after adjustment,75.55555555555556,percent,15,independent climate models
+c,Regions within Continent,TIB,Tibetan-Plateau,Asia,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Regions within Continent,EAS,E.Asia,Asia,Coverage rate after adjustment,71.1111111111111,percent,15,independent climate models
+c,Regions within Continent,ARP,Arabian-Peninsula,Asia,Coverage rate after adjustment,82.22222222222221,percent,15,independent climate models
+c,Regions within Continent,SAS,S.Asia,Asia,Coverage rate after adjustment,84.44444444444443,percent,15,independent climate models
+c,Regions within Continent,SEA,S.E.Asia,Australasia,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Regions within Continent,NAU,N.Australia,Australasia,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Regions within Continent,CAU,C.Australia,Australasia,Coverage rate after adjustment,91.11111111111111,percent,15,independent climate models
+c,Regions within Continent,EAU,E.Australia,Australasia,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Regions within Continent,SAU,S.Australia,Australasia,Coverage rate after adjustment,95.55555555555557,percent,15,independent climate models
+c,Regions within Continent,NZ,New-Zealand,Australasia,Coverage rate after adjustment,97.77777777777779,percent,15,independent climate models
+c,Regions within Continent,EAN,E.Antarctica,Antarctica,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Regions within Continent,WAN,W.Antarctica,Antarctica,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region + LSAT,GIC,Greenland/Iceland,North and Central America,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Region + LSAT,NWN,N.W.North-America,North and Central America,Coverage rate after adjustment,95.55555555555556,percent,15,independent climate models
+c,Region + LSAT,NEN,N.E.North-America,North and Central America,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Region + LSAT,WNA,W.North-America,North and Central America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region + LSAT,CNA,C.North-America,North and Central America,Coverage rate after adjustment,80.0,percent,15,independent climate models
+c,Region + LSAT,ENA,E.North-America,North and Central America,Coverage rate after adjustment,86.66666666666669,percent,15,independent climate models
+c,Region + LSAT,NCA,N.Central-America,North and Central America,Coverage rate after adjustment,82.2222222222222,percent,15,independent climate models
+c,Region + LSAT,SCA,S.Central-America,North and Central America,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Region + LSAT,CAR,Caribbean,North and Central America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region + LSAT,NWS,N.W.South-America,South America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region + LSAT,NSA,N.South-America,South America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region + LSAT,NES,N.E.South-America,South America,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Region + LSAT,SAM,South-American-Monsoon,South America,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Region + LSAT,SWS,S.W.South-America,South America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region + LSAT,SES,S.E.South-America,South America,Coverage rate after adjustment,100.0,percent,15,independent climate models
+c,Region + LSAT,SSA,S.South-America,South America,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Region + LSAT,NEU,N.Europe,Europe,Coverage rate after adjustment,84.44444444444443,percent,15,independent climate models
+c,Region + LSAT,WCE,West&Central-Europe,Europe,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Region + LSAT,EEU,E.Europe,Europe,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Region + LSAT,MED,Mediterranean,Europe,Coverage rate after adjustment,84.44444444444444,percent,15,independent climate models
+c,Region + LSAT,SAH,Sahara,Africa,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Region + LSAT,WAF,Western-Africa,Africa,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region + LSAT,CAF,Central-Africa,Africa,Coverage rate after adjustment,95.55555555555557,percent,15,independent climate models
+c,Region + LSAT,NEAF,N.Eastern-Africa,Africa,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region + LSAT,SEAF,S.Eastern-Africa,Africa,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Region + LSAT,WSAF,W.Southern-Africa,Africa,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region + LSAT,ESAF,E.Southern-Africa,Africa,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Region + LSAT,MDG,Madagascar,Africa,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Region + LSAT,RAR,Russian-Arctic,Asia,Coverage rate after adjustment,95.55555555555556,percent,15,independent climate models
+c,Region + LSAT,WSB,W.Siberia,Asia,Coverage rate after adjustment,86.66666666666666,percent,15,independent climate models
+c,Region + LSAT,ESB,E.Siberia,Asia,Coverage rate after adjustment,82.2222222222222,percent,15,independent climate models
+c,Region + LSAT,RFE,Russian-Far-East,Asia,Coverage rate after adjustment,82.22222222222221,percent,15,independent climate models
+c,Region + LSAT,WCA,W.C.Asia,Asia,Coverage rate after adjustment,86.66666666666666,percent,15,independent climate models
+c,Region + LSAT,ECA,E.C.Asia,Asia,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Region + LSAT,TIB,Tibetan-Plateau,Asia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region + LSAT,EAS,E.Asia,Asia,Coverage rate after adjustment,84.44444444444443,percent,15,independent climate models
+c,Region + LSAT,ARP,Arabian-Peninsula,Asia,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Region + LSAT,SAS,S.Asia,Asia,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Region + LSAT,SEA,S.E.Asia,Australasia,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Region + LSAT,NAU,N.Australia,Australasia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region + LSAT,CAU,C.Australia,Australasia,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Region + LSAT,EAU,E.Australia,Australasia,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Region + LSAT,SAU,S.Australia,Australasia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region + LSAT,NZ,New-Zealand,Australasia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Region + LSAT,EAN,E.Antarctica,Antarctica,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Region + LSAT,WAN,W.Antarctica,Antarctica,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Continent,GIC,Greenland/Iceland,North and Central America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Continent,NWN,N.W.North-America,North and Central America,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Continent,NEN,N.E.North-America,North and Central America,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Continent,WNA,W.North-America,North and Central America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Continent,CNA,C.North-America,North and Central America,Coverage rate after adjustment,84.44444444444443,percent,15,independent climate models
+c,Continent,ENA,E.North-America,North and Central America,Coverage rate after adjustment,84.44444444444443,percent,15,independent climate models
+c,Continent,NCA,N.Central-America,North and Central America,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Continent,SCA,S.Central-America,North and Central America,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Continent,CAR,Caribbean,North and Central America,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Continent,NWS,N.W.South-America,South America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Continent,NSA,N.South-America,South America,Coverage rate after adjustment,82.22222222222221,percent,15,independent climate models
+c,Continent,NES,N.E.South-America,South America,Coverage rate after adjustment,100.0,percent,15,independent climate models
+c,Continent,SAM,South-American-Monsoon,South America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Continent,SWS,S.W.South-America,South America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Continent,SES,S.E.South-America,South America,Coverage rate after adjustment,100.0,percent,15,independent climate models
+c,Continent,SSA,S.South-America,South America,Coverage rate after adjustment,97.77777777777777,percent,15,independent climate models
+c,Continent,NEU,N.Europe,Europe,Coverage rate after adjustment,97.77777777777777,percent,15,independent climate models
+c,Continent,WCE,West&Central-Europe,Europe,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Continent,EEU,E.Europe,Europe,Coverage rate after adjustment,91.11111111111111,percent,15,independent climate models
+c,Continent,MED,Mediterranean,Europe,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Continent,SAH,Sahara,Africa,Coverage rate after adjustment,91.11111111111111,percent,15,independent climate models
+c,Continent,WAF,Western-Africa,Africa,Coverage rate after adjustment,95.55555555555556,percent,15,independent climate models
+c,Continent,CAF,Central-Africa,Africa,Coverage rate after adjustment,97.77777777777777,percent,15,independent climate models
+c,Continent,NEAF,N.Eastern-Africa,Africa,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Continent,SEAF,S.Eastern-Africa,Africa,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Continent,WSAF,W.Southern-Africa,Africa,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Continent,ESAF,E.Southern-Africa,Africa,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Continent,MDG,Madagascar,Africa,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Continent,RAR,Russian-Arctic,Asia,Coverage rate after adjustment,95.55555555555556,percent,15,independent climate models
+c,Continent,WSB,W.Siberia,Asia,Coverage rate after adjustment,91.11111111111111,percent,15,independent climate models
+c,Continent,ESB,E.Siberia,Asia,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Continent,RFE,Russian-Far-East,Asia,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Continent,WCA,W.C.Asia,Asia,Coverage rate after adjustment,82.2222222222222,percent,15,independent climate models
+c,Continent,ECA,E.C.Asia,Asia,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Continent,TIB,Tibetan-Plateau,Asia,Coverage rate after adjustment,84.44444444444443,percent,15,independent climate models
+c,Continent,EAS,E.Asia,Asia,Coverage rate after adjustment,80.0,percent,15,independent climate models
+c,Continent,ARP,Arabian-Peninsula,Asia,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Continent,SAS,S.Asia,Asia,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Continent,SEA,S.E.Asia,Australasia,Coverage rate after adjustment,86.66666666666669,percent,15,independent climate models
+c,Continent,NAU,N.Australia,Australasia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Continent,CAU,C.Australia,Australasia,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Continent,EAU,E.Australia,Australasia,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Continent,SAU,S.Australia,Australasia,Coverage rate after adjustment,97.77777777777779,percent,15,independent climate models
+c,Continent,NZ,New-Zealand,Australasia,Coverage rate after adjustment,97.77777777777779,percent,15,independent climate models
+c,Continent,EAN,E.Antarctica,Antarctica,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Continent,WAN,W.Antarctica,Antarctica,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Continent + LSAT,GIC,Greenland/Iceland,North and Central America,Coverage rate after adjustment,84.44444444444444,percent,15,independent climate models
+c,Continent + LSAT,NWN,N.W.North-America,North and Central America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Continent + LSAT,NEN,N.E.North-America,North and Central America,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Continent + LSAT,WNA,W.North-America,North and Central America,Coverage rate after adjustment,84.44444444444443,percent,15,independent climate models
+c,Continent + LSAT,CNA,C.North-America,North and Central America,Coverage rate after adjustment,82.22222222222223,percent,15,independent climate models
+c,Continent + LSAT,ENA,E.North-America,North and Central America,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Continent + LSAT,NCA,N.Central-America,North and Central America,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Continent + LSAT,SCA,S.Central-America,North and Central America,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Continent + LSAT,CAR,Caribbean,North and Central America,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Continent + LSAT,NWS,N.W.South-America,South America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Continent + LSAT,NSA,N.South-America,South America,Coverage rate after adjustment,82.22222222222221,percent,15,independent climate models
+c,Continent + LSAT,NES,N.E.South-America,South America,Coverage rate after adjustment,97.77777777777777,percent,15,independent climate models
+c,Continent + LSAT,SAM,South-American-Monsoon,South America,Coverage rate after adjustment,91.11111111111111,percent,15,independent climate models
+c,Continent + LSAT,SWS,S.W.South-America,South America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Continent + LSAT,SES,S.E.South-America,South America,Coverage rate after adjustment,100.0,percent,15,independent climate models
+c,Continent + LSAT,SSA,S.South-America,South America,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Continent + LSAT,NEU,N.Europe,Europe,Coverage rate after adjustment,95.55555555555556,percent,15,independent climate models
+c,Continent + LSAT,WCE,West&Central-Europe,Europe,Coverage rate after adjustment,86.66666666666669,percent,15,independent climate models
+c,Continent + LSAT,EEU,E.Europe,Europe,Coverage rate after adjustment,84.44444444444444,percent,15,independent climate models
+c,Continent + LSAT,MED,Mediterranean,Europe,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Continent + LSAT,SAH,Sahara,Africa,Coverage rate after adjustment,82.22222222222221,percent,15,independent climate models
+c,Continent + LSAT,WAF,Western-Africa,Africa,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Continent + LSAT,CAF,Central-Africa,Africa,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Continent + LSAT,NEAF,N.Eastern-Africa,Africa,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Continent + LSAT,SEAF,S.Eastern-Africa,Africa,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Continent + LSAT,WSAF,W.Southern-Africa,Africa,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Continent + LSAT,ESAF,E.Southern-Africa,Africa,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Continent + LSAT,MDG,Madagascar,Africa,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Continent + LSAT,RAR,Russian-Arctic,Asia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Continent + LSAT,WSB,W.Siberia,Asia,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,Continent + LSAT,ESB,E.Siberia,Asia,Coverage rate after adjustment,84.44444444444443,percent,15,independent climate models
+c,Continent + LSAT,RFE,Russian-Far-East,Asia,Coverage rate after adjustment,80.0,percent,15,independent climate models
+c,Continent + LSAT,WCA,W.C.Asia,Asia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Continent + LSAT,ECA,E.C.Asia,Asia,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Continent + LSAT,TIB,Tibetan-Plateau,Asia,Coverage rate after adjustment,84.44444444444443,percent,15,independent climate models
+c,Continent + LSAT,EAS,E.Asia,Asia,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Continent + LSAT,ARP,Arabian-Peninsula,Asia,Coverage rate after adjustment,91.11111111111111,percent,15,independent climate models
+c,Continent + LSAT,SAS,S.Asia,Asia,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Continent + LSAT,SEA,S.E.Asia,Australasia,Coverage rate after adjustment,82.22222222222223,percent,15,independent climate models
+c,Continent + LSAT,NAU,N.Australia,Australasia,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Continent + LSAT,CAU,C.Australia,Australasia,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Continent + LSAT,EAU,E.Australia,Australasia,Coverage rate after adjustment,84.44444444444443,percent,15,independent climate models
+c,Continent + LSAT,SAU,S.Australia,Australasia,Coverage rate after adjustment,95.55555555555556,percent,15,independent climate models
+c,Continent + LSAT,NZ,New-Zealand,Australasia,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Continent + LSAT,EAN,E.Antarctica,Antarctica,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Continent + LSAT,WAN,W.Antarctica,Antarctica,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,LSAT,GIC,Greenland/Iceland,North and Central America,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,LSAT,NWN,N.W.North-America,North and Central America,Coverage rate after adjustment,95.55555555555556,percent,15,independent climate models
+c,LSAT,NEN,N.E.North-America,North and Central America,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,LSAT,WNA,W.North-America,North and Central America,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,LSAT,CNA,C.North-America,North and Central America,Coverage rate after adjustment,82.22222222222223,percent,15,independent climate models
+c,LSAT,ENA,E.North-America,North and Central America,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,LSAT,NCA,N.Central-America,North and Central America,Coverage rate after adjustment,84.44444444444443,percent,15,independent climate models
+c,LSAT,SCA,S.Central-America,North and Central America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,LSAT,CAR,Caribbean,North and Central America,Coverage rate after adjustment,95.55555555555556,percent,15,independent climate models
+c,LSAT,NWS,N.W.South-America,South America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,LSAT,NSA,N.South-America,South America,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,LSAT,NES,N.E.South-America,South America,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,LSAT,SAM,South-American-Monsoon,South America,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,LSAT,SWS,S.W.South-America,South America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,LSAT,SES,S.E.South-America,South America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,LSAT,SSA,S.South-America,South America,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,LSAT,NEU,N.Europe,Europe,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,LSAT,WCE,West&Central-Europe,Europe,Coverage rate after adjustment,84.44444444444443,percent,15,independent climate models
+c,LSAT,EEU,E.Europe,Europe,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,LSAT,MED,Mediterranean,Europe,Coverage rate after adjustment,84.44444444444443,percent,15,independent climate models
+c,LSAT,SAH,Sahara,Africa,Coverage rate after adjustment,84.44444444444443,percent,15,independent climate models
+c,LSAT,WAF,Western-Africa,Africa,Coverage rate after adjustment,84.44444444444444,percent,15,independent climate models
+c,LSAT,CAF,Central-Africa,Africa,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,LSAT,NEAF,N.Eastern-Africa,Africa,Coverage rate after adjustment,88.8888888888889,percent,15,independent climate models
+c,LSAT,SEAF,S.Eastern-Africa,Africa,Coverage rate after adjustment,88.8888888888889,percent,15,independent climate models
+c,LSAT,WSAF,W.Southern-Africa,Africa,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,LSAT,ESAF,E.Southern-Africa,Africa,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,LSAT,MDG,Madagascar,Africa,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,LSAT,RAR,Russian-Arctic,Asia,Coverage rate after adjustment,100.0,percent,15,independent climate models
+c,LSAT,WSB,W.Siberia,Asia,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,LSAT,ESB,E.Siberia,Asia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,LSAT,RFE,Russian-Far-East,Asia,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,LSAT,WCA,W.C.Asia,Asia,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,LSAT,ECA,E.C.Asia,Asia,Coverage rate after adjustment,88.8888888888889,percent,15,independent climate models
+c,LSAT,TIB,Tibetan-Plateau,Asia,Coverage rate after adjustment,84.44444444444444,percent,15,independent climate models
+c,LSAT,EAS,E.Asia,Asia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,LSAT,ARP,Arabian-Peninsula,Asia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,LSAT,SAS,S.Asia,Asia,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,LSAT,SEA,S.E.Asia,Australasia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,LSAT,NAU,N.Australia,Australasia,Coverage rate after adjustment,88.8888888888889,percent,15,independent climate models
+c,LSAT,CAU,C.Australia,Australasia,Coverage rate after adjustment,88.88888888888889,percent,15,independent climate models
+c,LSAT,EAU,E.Australia,Australasia,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,LSAT,SAU,S.Australia,Australasia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,LSAT,NZ,New-Zealand,Australasia,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,LSAT,EAN,E.Antarctica,Antarctica,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,LSAT,WAN,W.Antarctica,Antarctica,Coverage rate after adjustment,91.1111111111111,percent,15,independent climate models
+c,Raw prior,GIC,Greenland/Iceland,North and Central America,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Raw prior,NWN,N.W.North-America,North and Central America,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Raw prior,NEN,N.E.North-America,North and Central America,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Raw prior,WNA,W.North-America,North and Central America,Coverage rate after adjustment,100.0,percent,15,independent climate models
+c,Raw prior,CNA,C.North-America,North and Central America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,ENA,E.North-America,North and Central America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,NCA,N.Central-America,North and Central America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,SCA,S.Central-America,North and Central America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,CAR,Caribbean,North and Central America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,NWS,N.W.South-America,South America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,NSA,N.South-America,South America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,NES,N.E.South-America,South America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,SAM,South-American-Monsoon,South America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,SWS,S.W.South-America,South America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,SES,S.E.South-America,South America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,SSA,S.South-America,South America,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,NEU,N.Europe,Europe,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,WCE,West&Central-Europe,Europe,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,EEU,E.Europe,Europe,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,MED,Mediterranean,Europe,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,SAH,Sahara,Africa,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,WAF,Western-Africa,Africa,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Raw prior,CAF,Central-Africa,Africa,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,NEAF,N.Eastern-Africa,Africa,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,SEAF,S.Eastern-Africa,Africa,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,WSAF,W.Southern-Africa,Africa,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,ESAF,E.Southern-Africa,Africa,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,MDG,Madagascar,Africa,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,RAR,Russian-Arctic,Asia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,WSB,W.Siberia,Asia,Coverage rate after adjustment,100.0,percent,15,independent climate models
+c,Raw prior,ESB,E.Siberia,Asia,Coverage rate after adjustment,100.0,percent,15,independent climate models
+c,Raw prior,RFE,Russian-Far-East,Asia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,WCA,W.C.Asia,Asia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,ECA,E.C.Asia,Asia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,TIB,Tibetan-Plateau,Asia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,EAS,E.Asia,Asia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,ARP,Arabian-Peninsula,Asia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,SAS,S.Asia,Asia,Coverage rate after adjustment,86.66666666666667,percent,15,independent climate models
+c,Raw prior,SEA,S.E.Asia,Australasia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,NAU,N.Australia,Australasia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,CAU,C.Australia,Australasia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,EAU,E.Australia,Australasia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,SAU,S.Australia,Australasia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,NZ,New-Zealand,Australasia,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,EAN,E.Antarctica,Antarctica,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models
+c,Raw prior,WAN,W.Antarctica,Antarctica,Coverage rate after adjustment,93.33333333333333,percent,15,independent climate models

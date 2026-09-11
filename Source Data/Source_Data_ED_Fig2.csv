@@ -1,0 +1,95 @@
+panel,region_index,region_abbreviation,region_name,metric,value,units
+a,0,GIC,Greenland/Iceland,Warming magnitude divided by internal-variability SD,4.868025449847137,unitless
+a,1,NWN,N.W.North-America,Warming magnitude divided by internal-variability SD,6.352005211784425,unitless
+a,2,NEN,N.E.North-America,Warming magnitude divided by internal-variability SD,7.749742319570688,unitless
+a,3,WNA,W.North-America,Warming magnitude divided by internal-variability SD,5.956489318178264,unitless
+a,4,CNA,C.North-America,Warming magnitude divided by internal-variability SD,6.383768504186841,unitless
+a,5,ENA,E.North-America,Warming magnitude divided by internal-variability SD,7.7876580671942355,unitless
+a,6,NCA,N.Central-America,Warming magnitude divided by internal-variability SD,11.57926027918961,unitless
+a,7,SCA,S.Central-America,Warming magnitude divided by internal-variability SD,11.81227481714212,unitless
+a,8,CAR,Caribbean,Warming magnitude divided by internal-variability SD,13.314468629914817,unitless
+a,9,NWS,N.W.South-America,Warming magnitude divided by internal-variability SD,8.485376546548801,unitless
+a,10,NSA,N.South-America,Warming magnitude divided by internal-variability SD,7.375959234392328,unitless
+a,11,NES,N.E.South-America,Warming magnitude divided by internal-variability SD,10.601700138371847,unitless
+a,12,SAM,South-American-Monsoon,Warming magnitude divided by internal-variability SD,6.625095370218583,unitless
+a,13,SWS,S.W.South-America,Warming magnitude divided by internal-variability SD,6.195966327697653,unitless
+a,14,SES,S.E.South-America,Warming magnitude divided by internal-variability SD,7.217636210159784,unitless
+a,15,SSA,S.South-America,Warming magnitude divided by internal-variability SD,7.9029936479230924,unitless
+a,16,NEU,N.Europe,Warming magnitude divided by internal-variability SD,5.141819915518586,unitless
+a,17,WCE,West&Central-Europe,Warming magnitude divided by internal-variability SD,7.596273615722776,unitless
+a,18,EEU,E.Europe,Warming magnitude divided by internal-variability SD,6.297920258373584,unitless
+a,19,MED,Mediterranean,Warming magnitude divided by internal-variability SD,9.854295745811969,unitless
+a,20,SAH,Sahara,Warming magnitude divided by internal-variability SD,13.36936422408238,unitless
+a,21,WAF,Western-Africa,Warming magnitude divided by internal-variability SD,10.997678506444064,unitless
+a,22,CAF,Central-Africa,Warming magnitude divided by internal-variability SD,9.297569841073338,unitless
+a,23,NEAF,N.Eastern-Africa,Warming magnitude divided by internal-variability SD,15.24671670401333,unitless
+a,24,SEAF,S.Eastern-Africa,Warming magnitude divided by internal-variability SD,12.320994004217138,unitless
+a,25,WSAF,W.Southern-Africa,Warming magnitude divided by internal-variability SD,13.168041843465591,unitless
+a,26,ESAF,E.Southern-Africa,Warming magnitude divided by internal-variability SD,11.623875696100265,unitless
+a,27,MDG,Madagascar,Warming magnitude divided by internal-variability SD,10.935726024076269,unitless
+a,28,RAR,Russian-Arctic,Warming magnitude divided by internal-variability SD,6.653273170402924,unitless
+a,29,WSB,W.Siberia,Warming magnitude divided by internal-variability SD,6.18981990885829,unitless
+a,30,ESB,E.Siberia,Warming magnitude divided by internal-variability SD,7.6572788451658385,unitless
+a,31,RFE,Russian-Far-East,Warming magnitude divided by internal-variability SD,6.459977218803446,unitless
+a,32,WCA,W.C.Asia,Warming magnitude divided by internal-variability SD,11.379846620868117,unitless
+a,33,ECA,E.C.Asia,Warming magnitude divided by internal-variability SD,9.556030871113412,unitless
+a,34,TIB,Tibetan-Plateau,Warming magnitude divided by internal-variability SD,10.906457898399129,unitless
+a,35,EAS,E.Asia,Warming magnitude divided by internal-variability SD,10.773373591143358,unitless
+a,36,ARP,Arabian-Peninsula,Warming magnitude divided by internal-variability SD,13.460097190339853,unitless
+a,37,SAS,S.Asia,Warming magnitude divided by internal-variability SD,9.649836973321925,unitless
+a,38,SEA,S.E.Asia,Warming magnitude divided by internal-variability SD,15.83885319968413,unitless
+a,39,NAU,N.Australia,Warming magnitude divided by internal-variability SD,9.193684472383616,unitless
+a,40,CAU,C.Australia,Warming magnitude divided by internal-variability SD,7.736553908155061,unitless
+a,41,EAU,E.Australia,Warming magnitude divided by internal-variability SD,7.511376819117016,unitless
+a,42,SAU,S.Australia,Warming magnitude divided by internal-variability SD,9.028869989867355,unitless
+a,43,NZ,New-Zealand,Warming magnitude divided by internal-variability SD,7.416941401927972,unitless
+a,44,EAN,E.Antarctica,Warming magnitude divided by internal-variability SD,6.494297258546911,unitless
+a,45,WAN,W.Antarctica,Warming magnitude divided by internal-variability SD,5.372630277037478,unitless
+a,46,LSAT,Global Land,Warming magnitude divided by internal-variability SD,15.996970030693513,unitless
+b,0,GIC,Greenland/Iceland,Standard deviation of internal variability,0.4268894067212768,degC
+b,1,NWN,N.W.North-America,Standard deviation of internal variability,0.37742725393590565,degC
+b,2,NEN,N.E.North-America,Standard deviation of internal variability,0.34149202637581044,degC
+b,3,WNA,W.North-America,Standard deviation of internal variability,0.2469538916903745,degC
+b,4,CNA,C.North-America,Standard deviation of internal variability,0.2551061392462445,degC
+b,5,ENA,E.North-America,Standard deviation of internal variability,0.19431598476319986,degC
+b,6,NCA,N.Central-America,Standard deviation of internal variability,0.12383321714102774,degC
+b,7,SCA,S.Central-America,Standard deviation of internal variability,0.09334900741145336,degC
+b,8,CAR,Caribbean,Standard deviation of internal variability,0.07621215974540906,degC
+b,9,NWS,N.W.South-America,Standard deviation of internal variability,0.13453217528981015,degC
+b,10,NSA,N.South-America,Standard deviation of internal variability,0.17202643401792972,degC
+b,11,NES,N.E.South-America,Standard deviation of internal variability,0.1364248164622395,degC
+b,12,SAM,South-American-Monsoon,Standard deviation of internal variability,0.20338451424539122,degC
+b,13,SWS,S.W.South-America,Standard deviation of internal variability,0.13007066897803224,degC
+b,14,SES,S.E.South-America,Standard deviation of internal variability,0.15071167063505422,degC
+b,15,SSA,S.South-America,Standard deviation of internal variability,0.11407991990379933,degC
+b,16,NEU,N.Europe,Standard deviation of internal variability,0.34791591139481953,degC
+b,17,WCE,West&Central-Europe,Standard deviation of internal variability,0.2834734712837455,degC
+b,18,EEU,E.Europe,Standard deviation of internal variability,0.3736638889908237,degC
+b,19,MED,Mediterranean,Standard deviation of internal variability,0.1701054180004956,degC
+b,20,SAH,Sahara,Standard deviation of internal variability,0.1308506536448202,degC
+b,21,WAF,Western-Africa,Standard deviation of internal variability,0.11947238871119564,degC
+b,22,CAF,Central-Africa,Standard deviation of internal variability,0.09984781762701059,degC
+b,23,NEAF,N.Eastern-Africa,Standard deviation of internal variability,0.10443700060637837,degC
+b,24,SEAF,S.Eastern-Africa,Standard deviation of internal variability,0.0972875787058659,degC
+b,25,WSAF,W.Southern-Africa,Standard deviation of internal variability,0.11382984871752469,degC
+b,26,ESAF,E.Southern-Africa,Standard deviation of internal variability,0.11586383318001037,degC
+b,27,MDG,Madagascar,Standard deviation of internal variability,0.09571081417332293,degC
+b,28,RAR,Russian-Arctic,Standard deviation of internal variability,0.49799412365193274,degC
+b,29,WSB,W.Siberia,Standard deviation of internal variability,0.35080799022202763,degC
+b,30,ESB,E.Siberia,Standard deviation of internal variability,0.31010190800298976,degC
+b,31,RFE,Russian-Far-East,Standard deviation of internal variability,0.30184728005643796,degC
+b,32,WCA,W.C.Asia,Standard deviation of internal variability,0.18266310378232545,degC
+b,33,ECA,E.C.Asia,Standard deviation of internal variability,0.1886204547638521,degC
+b,34,TIB,Tibetan-Plateau,Standard deviation of internal variability,0.17871222916779436,degC
+b,35,EAS,E.Asia,Standard deviation of internal variability,0.1417655995238777,degC
+b,36,ARP,Arabian-Peninsula,Standard deviation of internal variability,0.13248365075116655,degC
+b,37,SAS,S.Asia,Standard deviation of internal variability,0.12561823409159728,degC
+b,38,SEA,S.E.Asia,Standard deviation of internal variability,0.06573261791207266,degC
+b,39,NAU,N.Australia,Standard deviation of internal variability,0.11564338459145819,degC
+b,40,CAU,C.Australia,Standard deviation of internal variability,0.17956905504430828,degC
+b,41,EAU,E.Australia,Standard deviation of internal variability,0.17943595728900563,degC
+b,42,SAU,S.Australia,Standard deviation of internal variability,0.1258147823983516,degC
+b,43,NZ,New-Zealand,Standard deviation of internal variability,0.13970622549210518,degC
+b,44,EAN,E.Antarctica,Standard deviation of internal variability,0.18681092868278468,degC
+b,45,WAN,W.Antarctica,Standard deviation of internal variability,0.3129011618176468,degC
+b,46,LSAT,Global Land,Standard deviation of internal variability,0.09796480486810824,degC

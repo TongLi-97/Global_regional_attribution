@@ -1,0 +1,48 @@
+panel,region_abbreviation,region_name,continent,constraint_scheme,confidence_ratio,units
+a,GIC,Greenland/Iceland,North and Central America,Observed global mean and regional temperature,3.4926897199987605,unitless
+a,NWN,N.W.North-America,North and Central America,Observed global mean and regional temperature,6.824503835382965,unitless
+a,NEN,N.E.North-America,North and Central America,Observed global mean and regional temperature,5.683808209234186,unitless
+a,WNA,W.North-America,North and Central America,Observed global mean and regional temperature,6.753836080091173,unitless
+a,CNA,C.North-America,North and Central America,Observed global mean and regional temperature,2.948688602780255,unitless
+a,ENA,E.North-America,North and Central America,Observed global mean and regional temperature,7.97886946704156,unitless
+a,NCA,N.Central-America,North and Central America,Observed global mean and regional temperature,7.782253916831084,unitless
+a,SCA,S.Central-America,North and Central America,Observed global mean and regional temperature,14.040112814415997,unitless
+a,CAR,Caribbean,North and Central America,Observed global mean and regional temperature,16.664383143136163,unitless
+a,NWS,N.W.South-America,South America,Observed global mean and regional temperature,11.798420331143241,unitless
+a,NSA,N.South-America,South America,Observed global mean and regional temperature,6.8011782314950295,unitless
+a,NES,N.E.South-America,South America,Observed global mean and regional temperature,9.45695836955497,unitless
+a,SAM,South-American-Monsoon,South America,Observed global mean and regional temperature,5.955924283441537,unitless
+a,SWS,S.W.South-America,South America,Observed global mean and regional temperature,11.969699661308296,unitless
+a,SES,S.E.South-America,South America,Observed global mean and regional temperature,9.496284594012778,unitless
+a,SSA,S.South-America,South America,Observed global mean and regional temperature,8.477738547449682,unitless
+a,NEU,N.Europe,Europe,Observed global mean and regional temperature,3.5415842158722066,unitless
+a,WCE,West&Central-Europe,Europe,Observed global mean and regional temperature,6.1196648667495825,unitless
+a,EEU,E.Europe,Europe,Observed global mean and regional temperature,5.29487616604556,unitless
+a,MED,Mediterranean,Europe,Observed global mean and regional temperature,7.928500523299179,unitless
+a,SAH,Sahara,Africa,Observed global mean and regional temperature,8.539132860187692,unitless
+a,WAF,Western-Africa,Africa,Observed global mean and regional temperature,9.501739148993103,unitless
+a,CAF,Central-Africa,Africa,Observed global mean and regional temperature,6.813138552618328,unitless
+a,NEAF,N.Eastern-Africa,Africa,Observed global mean and regional temperature,7.94553930444269,unitless
+a,SEAF,S.Eastern-Africa,Africa,Observed global mean and regional temperature,7.366628010206937,unitless
+a,WSAF,W.Southern-Africa,Africa,Observed global mean and regional temperature,10.227689397773451,unitless
+a,ESAF,E.Southern-Africa,Africa,Observed global mean and regional temperature,8.428585692773487,unitless
+a,MDG,Madagascar,Africa,Observed global mean and regional temperature,12.390905310239312,unitless
+a,RAR,Russian-Arctic,Asia,Observed global mean and regional temperature,5.319958238333029,unitless
+a,WSB,W.Siberia,Asia,Observed global mean and regional temperature,5.683874163721979,unitless
+a,ESB,E.Siberia,Asia,Observed global mean and regional temperature,5.8452243800375765,unitless
+a,RFE,Russian-Far-East,Asia,Observed global mean and regional temperature,4.2289442788204905,unitless
+a,WCA,W.C.Asia,Asia,Observed global mean and regional temperature,7.073716048004264,unitless
+a,ECA,E.C.Asia,Asia,Observed global mean and regional temperature,7.237907786722068,unitless
+a,TIB,Tibetan-Plateau,Asia,Observed global mean and regional temperature,5.233004043403263,unitless
+a,EAS,E.Asia,Asia,Observed global mean and regional temperature,6.928883653784966,unitless
+a,ARP,Arabian-Peninsula,Asia,Observed global mean and regional temperature,9.693432109694376,unitless
+a,SAS,S.Asia,Asia,Observed global mean and regional temperature,6.55954951953574,unitless
+a,SEA,S.E.Asia,Australasia,Observed global mean and regional temperature,12.09862738865226,unitless
+a,NAU,N.Australia,Australasia,Observed global mean and regional temperature,11.091799184904769,unitless
+a,CAU,C.Australia,Australasia,Observed global mean and regional temperature,6.9988166657054105,unitless
+a,EAU,E.Australia,Australasia,Observed global mean and regional temperature,10.735503580930894,unitless
+a,SAU,S.Australia,Australasia,Observed global mean and regional temperature,8.75644219035635,unitless
+a,NZ,New-Zealand,Australasia,Observed global mean and regional temperature,10.148243744375947,unitless
+a,EAN,E.Antarctica,Antarctica,Observed global mean and regional temperature,4.240189236441233,unitless
+a,WAN,W.Antarctica,Antarctica,Observed global mean and regional temperature,1.5984634268784061,unitless
+a,LSAT,Global Land,Global land,Observed global mean and regional temperature,13.388624673154505,unitless

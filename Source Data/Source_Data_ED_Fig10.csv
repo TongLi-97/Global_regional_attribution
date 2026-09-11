@@ -1,0 +1,19 @@
+panel,forcing,scenario,metric,value,units
+a,ALL,Constrained,2016-2025 attributable warming,1.5671400475378654,degC
+a,ALL,Weighted,2016-2025 attributable warming,1.5933041155355632,degC
+a,ANT,Constrained,2016-2025 attributable warming,1.4902962350695859,degC
+a,ANT,Weighted,2016-2025 attributable warming,1.4932226345632564,degC
+a,NAT,Constrained,2016-2025 attributable warming,0.043920392726481065,degC
+a,NAT,Weighted,2016-2025 attributable warming,0.05901833780972329,degC
+a,GHG,Constrained,2016-2025 attributable warming,1.7527141993003326,degC
+a,GHG,Weighted,2016-2025 attributable warming,1.8208919620314845,degC
+a,OANT,Constrained,2016-2025 attributable warming,-0.30128139609495064,degC
+a,OANT,Weighted,2016-2025 attributable warming,-0.36808876154073733,degC
+b,ALL,Weighted 1.5 degC,Achieved warming percentage,91.71532634914436,percent
+b,ALL,Constraint 1.5 degC,Achieved warming percentage,91.79812269498842,percent
+b,ALL,Weighted 2 degC,Achieved warming percentage,70.17442420494757,percent
+b,ALL,Constraint 2 degC,Achieved warming percentage,70.36277195979419,percent
+c,ALL,Weighted 1.5 degC,Additional allowable warming,2.0916802347115873,degC
+c,ALL,Constraint 1.5 degC,Additional allowable warming,2.061577770716886,degC
+c,ALL,Weighted 2 degC,Additional allowable warming,2.7324445707011065,degC
+c,ALL,Constraint 2 degC,Additional allowable warming,2.6896178742029617,degC

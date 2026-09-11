@@ -1,0 +1,142 @@
+panel,region_index,region_abbreviation,region_name,metric,mean,lower_5th_percentile,upper_95th_percentile,value,units
+a,0,GIC,Greenland/Iceland,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",2.0781084961893206,1.0242381991657006,3.13197879321294,,degC
+a,1,NWN,N.W.North-America,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",2.397419884070356,1.7617276572483145,3.0331121108923975,,degC
+a,2,NEN,N.E.North-America,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",2.6464752086005676,1.863124554010897,3.4298258631902376,,degC
+a,3,WNA,W.North-America,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.4709782179362676,1.1206445502407343,1.8213118856318007,,degC
+a,4,CNA,C.North-America,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.628538536944878,1.2880806034580288,1.9689964704317269,,degC
+a,5,ENA,E.North-America,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.5132664463259256,1.268575287575891,1.7579576050759598,,degC
+a,6,NCA,N.Central-America,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.4338970524853645,1.209884023927352,1.657910081043377,,degC
+a,7,SCA,S.Central-America,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.1026641294515236,0.9481153907311793,1.2572128681718677,,degC
+a,8,CAR,Caribbean,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.0147244101483057,0.8940732984232558,1.1353755218733557,,degC
+a,9,NWS,N.W.South-America,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.1415561649603472,0.8530018061560491,1.430110523764645,,degC
+a,10,NSA,N.South-America,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.2688599645541312,0.7880687614134201,1.749651167694842,,degC
+a,11,NES,N.E.South-America,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.4463349955650784,1.1584855128583924,1.7341844782717641,,degC
+a,12,SAM,South-American-Monsoon,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.3474418037012967,0.8180744875191748,1.8768091198834185,,degC
+a,13,SWS,S.W.South-America,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",0.8059134852089955,0.5875996075395223,1.0242273628784686,,degC
+a,14,SES,S.E.South-America,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.0877820112692425,0.7968313470100683,1.3787326755284164,,degC
+a,15,SSA,S.South-America,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",0.9015728823553013,0.7498242393047447,1.0533215254058577,,degC
+a,16,NEU,N.Europe,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.7889209621356827,1.0786419482850937,2.4991999759862713,,degC
+a,17,WCE,West&Central-Europe,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",2.153342050670064,1.794519872784567,2.5121642285555605,,degC
+a,18,EEU,E.Europe,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",2.3533053762979668,1.807309015850287,2.899301736745646,,degC
+a,19,MED,Mediterranean,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.6762690969418508,1.4271090563451776,1.925429137538524,,degC
+a,20,SAH,Sahara,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.749390047536854,1.4524858302056545,2.0462942648680533,,degC
+a,21,WAF,Western-Africa,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.3139189214426468,1.0459997505652876,1.5818380923200057,,degC
+a,22,CAF,Central-Africa,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",0.9283420578658845,0.564271384010699,1.2924127317210699,,degC
+a,23,NEAF,N.Eastern-Africa,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.5923213616623193,1.2668693481321993,1.9177733751924393,,degC
+a,24,SEAF,S.Eastern-Africa,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.1986796739197765,0.8683173415568284,1.5290420062827246,,degC
+a,25,WSAF,W.Southern-Africa,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.4989162109477232,1.2508235356027129,1.7470088862927335,,degC
+a,26,ESAF,E.Southern-Africa,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.346786794558138,1.0695143957143043,1.6240591934019717,,degC
+a,27,MDG,Madagascar,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.0466672413407354,0.8580162911870327,1.235318191494438,,degC
+a,28,RAR,Russian-Arctic,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",3.3132909419117205,2.234785062342701,4.39179682148074,,degC
+a,29,WSB,W.Siberia,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",2.171438282062871,1.6728275758759208,2.670048988249821,,degC
+a,30,ESB,E.Siberia,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",2.3745367799968564,1.923210909665038,2.8258626503286743,,degC
+a,31,RFE,Russian-Far-East,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.949926552722373,1.2786928979012053,2.6211602075435403,,degC
+a,32,WCA,W.C.Asia,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",2.0786781043345783,1.7169997647465112,2.4403564439226453,,degC
+a,33,ECA,E.C.Asia,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.8024628886468217,1.426417193416623,2.1785085838770204,,degC
+a,34,TIB,Tibetan-Plateau,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.949117403347606,1.3797483803323196,2.518486426362892,,degC
+a,35,EAS,E.Asia,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.5272937660431496,1.302667336685969,1.75192019540033,,degC
+a,36,ARP,Arabian-Peninsula,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.7832428152417434,1.4567410171458375,2.109744613337649,,degC
+a,37,SAS,S.Asia,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.2121954798605041,0.9620452724521467,1.4623456872688614,,degC
+a,38,SEA,S.E.Asia,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.0411292855402465,0.8957815327149812,1.1864770383655117,,degC
+a,39,NAU,N.Australia,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.063188789252376,0.8833158438650774,1.2430617346396742,,degC
+a,40,CAU,C.Australia,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.3892456745867545,1.0325300026528161,1.745961346520693,,degC
+a,41,EAU,E.Australia,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.347811090096708,1.1243074159315254,1.5713147642618903,,degC
+a,42,SAU,S.Australia,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.1359653130781682,0.9476918637050001,1.324238762451336,,degC
+a,43,NZ,New-Zealand,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.03619288795948,0.8591068722773969,1.213278903641563,,degC
+a,44,EAN,E.Antarctica,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.213205702011211,0.6836175892439708,1.742793814778451,,degC
+a,45,WAN,W.Antarctica,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.6811022557016928,0.841222872822132,2.520981638581253,,degC
+a,46,LSAT,Global Land,"ALL-forcing attributable warming, 1850-1900 to 2016-2025",1.5671400475378654,1.3707534339193894,1.7635266611563412,,degC
+b,0,GIC,Greenland/Iceland,Percentage of 1.5 degC regional warming level already reached,,,,92.73418509102085,percent
+b,1,NWN,N.W.North-America,Percentage of 1.5 degC regional warming level already reached,,,,91.85010606456733,percent
+b,2,NEN,N.E.North-America,Percentage of 1.5 degC regional warming level already reached,,,,92.55461529940948,percent
+b,3,WNA,W.North-America,Percentage of 1.5 degC regional warming level already reached,,,,91.7389503209288,percent
+b,4,CNA,C.North-America,Percentage of 1.5 degC regional warming level already reached,,,,91.81585754829253,percent
+b,5,ENA,E.North-America,Percentage of 1.5 degC regional warming level already reached,,,,91.3741010235399,percent
+b,6,NCA,N.Central-America,Percentage of 1.5 degC regional warming level already reached,,,,91.33360803581367,percent
+b,7,SCA,S.Central-America,Percentage of 1.5 degC regional warming level already reached,,,,91.28766437645453,percent
+b,8,CAR,Caribbean,Percentage of 1.5 degC regional warming level already reached,,,,91.41319066568336,percent
+b,9,NWS,N.W.South-America,Percentage of 1.5 degC regional warming level already reached,,,,91.67667965703664,percent
+b,10,NSA,N.South-America,Percentage of 1.5 degC regional warming level already reached,,,,91.03327883843225,percent
+b,11,NES,N.E.South-America,Percentage of 1.5 degC regional warming level already reached,,,,92.69749607840323,percent
+b,12,SAM,South-American-Monsoon,Percentage of 1.5 degC regional warming level already reached,,,,91.03628490698725,percent
+b,13,SWS,S.W.South-America,Percentage of 1.5 degC regional warming level already reached,,,,89.94060925311186,percent
+b,14,SES,S.E.South-America,Percentage of 1.5 degC regional warming level already reached,,,,92.48480596552282,percent
+b,15,SSA,S.South-America,Percentage of 1.5 degC regional warming level already reached,,,,92.49260225662701,percent
+b,16,NEU,N.Europe,Percentage of 1.5 degC regional warming level already reached,,,,92.82176545301623,percent
+b,17,WCE,West&Central-Europe,Percentage of 1.5 degC regional warming level already reached,,,,91.33436083477767,percent
+b,18,EEU,E.Europe,Percentage of 1.5 degC regional warming level already reached,,,,91.2649866460233,percent
+b,19,MED,Mediterranean,Percentage of 1.5 degC regional warming level already reached,,,,91.29626932215471,percent
+b,20,SAH,Sahara,Percentage of 1.5 degC regional warming level already reached,,,,91.82062021322359,percent
+b,21,WAF,Western-Africa,Percentage of 1.5 degC regional warming level already reached,,,,91.4476496679083,percent
+b,22,CAF,Central-Africa,Percentage of 1.5 degC regional warming level already reached,,,,90.35375540969319,percent
+b,23,NEAF,N.Eastern-Africa,Percentage of 1.5 degC regional warming level already reached,,,,93.24768035182133,percent
+b,24,SEAF,S.Eastern-Africa,Percentage of 1.5 degC regional warming level already reached,,,,91.70241132807165,percent
+b,25,WSAF,W.Southern-Africa,Percentage of 1.5 degC regional warming level already reached,,,,92.50985928845876,percent
+b,26,ESAF,E.Southern-Africa,Percentage of 1.5 degC regional warming level already reached,,,,91.8271176353861,percent
+b,27,MDG,Madagascar,Percentage of 1.5 degC regional warming level already reached,,,,90.60057058451187,percent
+b,28,RAR,Russian-Arctic,Percentage of 1.5 degC regional warming level already reached,,,,92.4376605827902,percent
+b,29,WSB,W.Siberia,Percentage of 1.5 degC regional warming level already reached,,,,90.64331876653075,percent
+b,30,ESB,E.Siberia,Percentage of 1.5 degC regional warming level already reached,,,,91.28699316405054,percent
+b,31,RFE,Russian-Far-East,Percentage of 1.5 degC regional warming level already reached,,,,91.35459471197233,percent
+b,32,WCA,W.C.Asia,Percentage of 1.5 degC regional warming level already reached,,,,91.51338398763411,percent
+b,33,ECA,E.C.Asia,Percentage of 1.5 degC regional warming level already reached,,,,91.10277155910441,percent
+b,34,TIB,Tibetan-Plateau,Percentage of 1.5 degC regional warming level already reached,,,,91.95094122052905,percent
+b,35,EAS,E.Asia,Percentage of 1.5 degC regional warming level already reached,,,,90.4695208436659,percent
+b,36,ARP,Arabian-Peninsula,Percentage of 1.5 degC regional warming level already reached,,,,91.55426749944618,percent
+b,37,SAS,S.Asia,Percentage of 1.5 degC regional warming level already reached,,,,91.47644030177729,percent
+b,38,SEA,S.E.Asia,Percentage of 1.5 degC regional warming level already reached,,,,91.8646944858567,percent
+b,39,NAU,N.Australia,Percentage of 1.5 degC regional warming level already reached,,,,91.67092503227371,percent
+b,40,CAU,C.Australia,Percentage of 1.5 degC regional warming level already reached,,,,91.14209652059051,percent
+b,41,EAU,E.Australia,Percentage of 1.5 degC regional warming level already reached,,,,91.28495880304195,percent
+b,42,SAU,S.Australia,Percentage of 1.5 degC regional warming level already reached,,,,93.76717400387766,percent
+b,43,NZ,New-Zealand,Percentage of 1.5 degC regional warming level already reached,,,,91.54942033944478,percent
+b,44,EAN,E.Antarctica,Percentage of 1.5 degC regional warming level already reached,,,,92.10044492466754,percent
+b,45,WAN,W.Antarctica,Percentage of 1.5 degC regional warming level already reached,,,,91.40641432439284,percent
+b,46,LSAT,Global Land,Percentage of 1.5 degC regional warming level already reached,,,,91.79812269498841,percent
+c,0,GIC,Greenland/Iceland,Percentage of 2 degC regional warming level already reached,,,,73.02635354900781,percent
+c,1,NWN,N.W.North-America,Percentage of 2 degC regional warming level already reached,,,,70.50692913768769,percent
+c,2,NEN,N.E.North-America,Percentage of 2 degC regional warming level already reached,,,,72.5041385651179,percent
+c,3,WNA,W.North-America,Percentage of 2 degC regional warming level already reached,,,,70.19912258336122,percent
+c,4,CNA,C.North-America,Percentage of 2 degC regional warming level already reached,,,,70.41188221549758,percent
+c,5,ENA,E.North-America,Percentage of 2 degC regional warming level already reached,,,,69.20232969821791,percent
+c,6,NCA,N.Central-America,Percentage of 2 degC regional warming level already reached,,,,69.09296012816839,percent
+c,7,SCA,S.Central-America,Percentage of 2 degC regional warming level already reached,,,,68.9691695562611,percent
+c,8,CAR,Caribbean,Percentage of 2 degC regional warming level already reached,,,,69.30815770309192,percent
+c,9,NWS,N.W.South-America,Percentage of 2 degC regional warming level already reached,,,,70.02753444071277,percent
+c,10,NSA,N.South-America,Percentage of 2 degC regional warming level already reached,,,,68.2894889223585,percent
+c,11,NES,N.E.South-America,Percentage of 2 degC regional warming level already reached,,,,72.91919540596672,percent
+c,12,SAM,South-American-Monsoon,Percentage of 2 degC regional warming level already reached,,,,68.29746443323988,percent
+c,13,SWS,S.W.South-America,Percentage of 2 degC regional warming level already reached,,,,65.4764720434235,percent
+c,14,SES,S.E.South-America,Percentage of 2 degC regional warming level already reached,,,,72.30258697447756,percent
+c,15,SSA,S.South-America,Percentage of 2 degC regional warming level already reached,,,,72.32509245488245,percent
+c,16,NEU,N.Europe,Percentage of 2 degC regional warming level already reached,,,,73.28303293031423,percent
+c,17,WCE,West&Central-Europe,Percentage of 2 degC regional warming level already reached,,,,69.09500096911002,percent
+c,18,EEU,E.Europe,Percentage of 2 degC regional warming level already reached,,,,68.90818427916943,percent
+c,19,MED,Mediterranean,Percentage of 2 degC regional warming level already reached,,,,68.99233041825205,percent
+c,20,SAH,Sahara,Percentage of 2 degC regional warming level already reached,,,,70.42508852183352,percent
+c,21,WAF,Western-Africa,Percentage of 2 degC regional warming level already reached,,,,69.40161956992279,percent
+c,22,CAF,Central-Africa,Percentage of 2 degC regional warming level already reached,,,,66.52026908111375,percent
+c,23,NEAF,N.Eastern-Africa,Percentage of 2 degC regional warming level already reached,,,,74.55040553712386,percent
+c,24,SEAF,S.Eastern-Africa,Percentage of 2 degC regional warming level already reached,,,,70.098365050984,percent
+c,25,WSAF,W.Southern-Africa,Percentage of 2 degC regional warming level already reached,,,,72.37482182881512,percent
+c,26,ESAF,E.Southern-Africa,Percentage of 2 degC regional warming level already reached,,,,70.44311088510487,percent
+c,27,MDG,Madagascar,Percentage of 2 degC regional warming level already reached,,,,67.15524510160466,percent
+c,28,RAR,Russian-Arctic,Percentage of 2 degC regional warming level already reached,,,,72.16691896372333,percent
+c,29,WSB,W.Siberia,Percentage of 2 degC regional warming level already reached,,,,67.26607804782061,percent
+c,30,ESB,E.Siberia,Percentage of 2 degC regional warming level already reached,,,,68.96736340759134,percent
+c,31,RFE,Russian-Far-East,Percentage of 2 degC regional warming level already reached,,,,69.14963753617995,percent
+c,32,WCA,W.C.Asia,Percentage of 2 degC regional warming level already reached,,,,69.58047899645442,percent
+c,33,ECA,E.C.Asia,Percentage of 2 degC regional warming level already reached,,,,68.47420483071093,percent
+c,34,TIB,Tibetan-Plateau,Percentage of 2 degC regional warming level already reached,,,,70.7878670441792,percent
+c,35,EAS,E.Asia,Percentage of 2 degC regional warming level already reached,,,,66.81704034740557,percent
+c,36,ARP,Arabian-Peninsula,Percentage of 2 degC regional warming level already reached,,,,69.69200569681209,percent
+c,37,SAS,S.Asia,Percentage of 2 degC regional warming level already reached,,,,69.47985686783342,percent
+c,38,SEA,S.E.Asia,Percentage of 2 degC regional warming level already reached,,,,70.54749755398872,percent
+c,39,NAU,N.Australia,Percentage of 2 degC regional warming level already reached,,,,70.01174301859746,percent
+c,40,CAU,C.Australia,Percentage of 2 degC regional warming level already reached,,,,68.57905087988719,percent
+c,41,EAU,E.Australia,Percentage of 2 degC regional warming level already reached,,,,68.96193308555243,percent
+c,42,SAU,S.Australia,Percentage of 2 degC regional warming level already reached,,,,76.14031337702137,percent
+c,43,NZ,New-Zealand,Percentage of 2 degC regional warming level already reached,,,,69.67874752316297,percent
+c,44,EAN,E.Antarctica,Percentage of 2 degC regional warming level already reached,,,,71.20736641102756,percent
+c,45,WAN,W.Antarctica,Percentage of 2 degC regional warming level already reached,,,,69.28978524602272,percent
+c,46,LSAT,Global Land,Percentage of 2 degC regional warming level already reached,,,,70.36277195979417,percent

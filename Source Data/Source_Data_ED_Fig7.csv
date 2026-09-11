@@ -1,0 +1,48 @@
+panel,region_abbreviation,region_name,continent,constraint_scheme,confidence_ratio,units
+a,GIC,Greenland/Iceland,North and Central America,Raw prior,3.554105087177178,unitless
+a,NWN,N.W.North-America,North and Central America,Raw prior,4.219046244690105,unitless
+a,NEN,N.E.North-America,North and Central America,Raw prior,5.211253673719902,unitless
+a,WNA,W.North-America,North and Central America,Raw prior,3.8863812752600704,unitless
+a,CNA,C.North-America,North and Central America,Raw prior,1.3575973988612495,unitless
+a,ENA,E.North-America,North and Central America,Raw prior,4.900713642190694,unitless
+a,NCA,N.Central-America,North and Central America,Raw prior,5.409486441680117,unitless
+a,SCA,S.Central-America,North and Central America,Raw prior,6.805019786661424,unitless
+a,CAR,Caribbean,North and Central America,Raw prior,6.452654203285262,unitless
+a,NWS,N.W.South-America,South America,Raw prior,5.1869097176192165,unitless
+a,NSA,N.South-America,South America,Raw prior,4.302773491691227,unitless
+a,NES,N.E.South-America,South America,Raw prior,5.436828992088241,unitless
+a,SAM,South-American-Monsoon,South America,Raw prior,5.2612095918502675,unitless
+a,SWS,S.W.South-America,South America,Raw prior,5.450450171992387,unitless
+a,SES,S.E.South-America,South America,Raw prior,4.017280808589414,unitless
+a,SSA,S.South-America,South America,Raw prior,4.244482927056767,unitless
+a,NEU,N.Europe,Europe,Raw prior,2.64774247215183,unitless
+a,WCE,West&Central-Europe,Europe,Raw prior,4.147370715680096,unitless
+a,EEU,E.Europe,Europe,Raw prior,4.544261406500759,unitless
+a,MED,Mediterranean,Europe,Raw prior,4.48599037502817,unitless
+a,SAH,Sahara,Africa,Raw prior,5.560790751676523,unitless
+a,WAF,Western-Africa,Africa,Raw prior,4.692019667089398,unitless
+a,CAF,Central-Africa,Africa,Raw prior,4.203400220495061,unitless
+a,NEAF,N.Eastern-Africa,Africa,Raw prior,5.864976715674131,unitless
+a,SEAF,S.Eastern-Africa,Africa,Raw prior,6.69833968950179,unitless
+a,WSAF,W.Southern-Africa,Africa,Raw prior,5.790302421770247,unitless
+a,ESAF,E.Southern-Africa,Africa,Raw prior,6.8675691052084895,unitless
+a,MDG,Madagascar,Africa,Raw prior,6.813521132920086,unitless
+a,RAR,Russian-Arctic,Asia,Raw prior,5.348657761859251,unitless
+a,WSB,W.Siberia,Asia,Raw prior,4.615487482517163,unitless
+a,ESB,E.Siberia,Asia,Raw prior,5.218656891843324,unitless
+a,RFE,Russian-Far-East,Asia,Raw prior,4.690892145560902,unitless
+a,WCA,W.C.Asia,Asia,Raw prior,4.457105188438525,unitless
+a,ECA,E.C.Asia,Asia,Raw prior,5.012337834853618,unitless
+a,TIB,Tibetan-Plateau,Asia,Raw prior,2.601199768480924,unitless
+a,EAS,E.Asia,Asia,Raw prior,3.8017708443391096,unitless
+a,ARP,Arabian-Peninsula,Asia,Raw prior,5.777933785761772,unitless
+a,SAS,S.Asia,Asia,Raw prior,2.603875266404823,unitless
+a,SEA,S.E.Asia,Australasia,Raw prior,5.249120272987318,unitless
+a,NAU,N.Australia,Australasia,Raw prior,6.295688537475014,unitless
+a,CAU,C.Australia,Australasia,Raw prior,5.4478987984009875,unitless
+a,EAU,E.Australia,Australasia,Raw prior,7.059647057486065,unitless
+a,SAU,S.Australia,Australasia,Raw prior,4.304152464116997,unitless
+a,NZ,New-Zealand,Australasia,Raw prior,4.81149658632529,unitless
+a,EAN,E.Antarctica,Antarctica,Raw prior,3.410588093681613,unitless
+a,WAN,W.Antarctica,Antarctica,Raw prior,1.5274707789239699,unitless
+a,LSAT,Global Land,Global land,Raw prior,5.652533176071895,unitless
