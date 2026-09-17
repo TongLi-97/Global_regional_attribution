@@ -1,6 +1,6 @@
-# Code for "How close are IPCC regions to their 1.5° and 2°C equivalent warming limits?"
+# Code for "All IPCC AR6 regions are close to their 1.5° and 2°C equivalent warming limits"
 
-Python code for the paper “Li, T., F. Zwiers, X. Zhang, Q. Sun: How close are IPCC regions to their 1.5° and 2°C equivalent warming limits?, submitted to Nature Climate Change"
+Python code for the paper “Li, T., F. Zwiers, X. Zhang, Q. Sun: All IPCC AR6 regions are close to their 1.5° and 2°C equivalent warming limits, accepted by Nature Climate Change"
 
 ## Author
 Tong Li
